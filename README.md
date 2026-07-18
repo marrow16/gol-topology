@@ -223,3 +223,305 @@
 * [Grouped x16](B01234/B01234-x16.md)
 * [Grouped x32](B01234/B01234-x32.md)
 * [Grouped x64](B01234/B01234-x64.md)
+
+## B5 (16384-16895)
+
+* [Grouped x8](B5/B5-x8.md)
+* [Grouped x16](B5/B5-x16.md)
+* [Grouped x32](B5/B5-x32.md)
+* [Grouped x64](B5/B5-x64.md)
+
+## B05 (16896-17407)
+
+* [Grouped x8](B05/B05-x8.md)
+* [Grouped x16](B05/B05-x16.md)
+* [Grouped x32](B05/B05-x32.md)
+* [Grouped x64](B05/B05-x64.md)
+
+## B15 (17408-17919)
+
+* [Grouped x8](B15/B15-x8.md)
+* [Grouped x16](B15/B15-x16.md)
+* [Grouped x32](B15/B15-x32.md)
+* [Grouped x64](B15/B15-x64.md)
+
+## B015 (17920-18431)
+
+* [Grouped x8](B015/B015-x8.md)
+* [Grouped x16](B015/B015-x16.md)
+* [Grouped x32](B015/B015-x32.md)
+* [Grouped x64](B015/B015-x64.md)
+
+## B25 (18432-18943)
+
+* [Grouped x8](B25/B25-x8.md)
+* [Grouped x16](B25/B25-x16.md)
+* [Grouped x32](B25/B25-x32.md)
+* [Grouped x64](B25/B25-x64.md)
+
+## B025 (18944-19455)
+
+* [Grouped x8](B025/B025-x8.md)
+* [Grouped x16](B025/B025-x16.md)
+* [Grouped x32](B025/B025-x32.md)
+* [Grouped x64](B025/B025-x64.md)
+
+## B125 (19456-19967)
+
+* [Grouped x8](B125/B125-x8.md)
+* [Grouped x16](B125/B125-x16.md)
+* [Grouped x32](B125/B125-x32.md)
+* [Grouped x64](B125/B125-x64.md)
+
+## B0125 (19968-20479)
+
+* [Grouped x8](B0125/B0125-x8.md)
+* [Grouped x16](B0125/B0125-x16.md)
+* [Grouped x32](B0125/B0125-x32.md)
+* [Grouped x64](B0125/B0125-x64.md)
+
+## B35 (20480-20991)
+
+* [Grouped x8](B35/B35-x8.md)
+* [Grouped x16](B35/B35-x16.md)
+* [Grouped x32](B35/B35-x32.md)
+* [Grouped x64](B35/B35-x64.md)
+
+## B035 (20992-21503)
+
+* [Grouped x8](B035/B035-x8.md)
+* [Grouped x16](B035/B035-x16.md)
+* [Grouped x32](B035/B035-x32.md)
+* [Grouped x64](B035/B035-x64.md)
+
+## B135 (21504-22015)
+
+* [Grouped x8](B135/B135-x8.md)
+* [Grouped x16](B135/B135-x16.md)
+* [Grouped x32](B135/B135-x32.md)
+* [Grouped x64](B135/B135-x64.md)
+
+## B0135 (22016-22527)
+
+* [Grouped x8](B0135/B0135-x8.md)
+* [Grouped x16](B0135/B0135-x16.md)
+* [Grouped x32](B0135/B0135-x32.md)
+* [Grouped x64](B0135/B0135-x64.md)
+
+## B235 (22528-23039)
+
+* [Grouped x8](B235/B235-x8.md)
+* [Grouped x16](B235/B235-x16.md)
+* [Grouped x32](B235/B235-x32.md)
+* [Grouped x64](B235/B235-x64.md)
+
+## B0235 (23040-23551)
+
+* [Grouped x8](B0235/B0235-x8.md)
+* [Grouped x16](B0235/B0235-x16.md)
+* [Grouped x32](B0235/B0235-x32.md)
+* [Grouped x64](B0235/B0235-x64.md)
+
+## B1235 (23552-24063)
+
+* [Grouped x8](B1235/B1235-x8.md)
+* [Grouped x16](B1235/B1235-x16.md)
+* [Grouped x32](B1235/B1235-x32.md)
+* [Grouped x64](B1235/B1235-x64.md)
+
+## B01235 (24064-24575)
+
+* [Grouped x8](B01235/B01235-x8.md)
+* [Grouped x16](B01235/B01235-x16.md)
+* [Grouped x32](B01235/B01235-x32.md)
+* [Grouped x64](B01235/B01235-x64.md)
+
+## B45 (24576-25087)
+
+* [Grouped x8](B45/B45-x8.md)
+* [Grouped x16](B45/B45-x16.md)
+* [Grouped x32](B45/B45-x32.md)
+* [Grouped x64](B45/B45-x64.md)
+
+## B045 (25088-25599)
+
+* [Grouped x8](B045/B045-x8.md)
+* [Grouped x16](B045/B045-x16.md)
+* [Grouped x32](B045/B045-x32.md)
+* [Grouped x64](B045/B045-x64.md)
+
+## B145 (25600-26111)
+
+* [Grouped x8](B145/B145-x8.md)
+* [Grouped x16](B145/B145-x16.md)
+* [Grouped x32](B145/B145-x32.md)
+* [Grouped x64](B145/B145-x64.md)
+
+## B0145 (26112-26623)
+
+* [Grouped x8](B0145/B0145-x8.md)
+* [Grouped x16](B0145/B0145-x16.md)
+* [Grouped x32](B0145/B0145-x32.md)
+* [Grouped x64](B0145/B0145-x64.md)
+
+## B245 (26624-27135)
+
+* [Grouped x8](B245/B245-x8.md)
+* [Grouped x16](B245/B245-x16.md)
+* [Grouped x32](B245/B245-x32.md)
+* [Grouped x64](B245/B245-x64.md)
+
+## B0245 (27136-27647)
+
+* [Grouped x8](B0245/B0245-x8.md)
+* [Grouped x16](B0245/B0245-x16.md)
+* [Grouped x32](B0245/B0245-x32.md)
+* [Grouped x64](B0245/B0245-x64.md)
+
+## B1245 (27648-28159)
+
+* [Grouped x8](B1245/B1245-x8.md)
+* [Grouped x16](B1245/B1245-x16.md)
+* [Grouped x32](B1245/B1245-x32.md)
+* [Grouped x64](B1245/B1245-x64.md)
+
+## B01245 (28160-28671)
+
+* [Grouped x8](B01245/B01245-x8.md)
+* [Grouped x16](B01245/B01245-x16.md)
+* [Grouped x32](B01245/B01245-x32.md)
+* [Grouped x64](B01245/B01245-x64.md)
+
+## B345 (28672-29183)
+
+* [Grouped x8](B345/B345-x8.md)
+* [Grouped x16](B345/B345-x16.md)
+* [Grouped x32](B345/B345-x32.md)
+* [Grouped x64](B345/B345-x64.md)
+
+## B0345 (29184-29695)
+
+* [Grouped x8](B0345/B0345-x8.md)
+* [Grouped x16](B0345/B0345-x16.md)
+* [Grouped x32](B0345/B0345-x32.md)
+* [Grouped x64](B0345/B0345-x64.md)
+
+## B1345 (29696-30207)
+
+* [Grouped x8](B1345/B1345-x8.md)
+* [Grouped x16](B1345/B1345-x16.md)
+* [Grouped x32](B1345/B1345-x32.md)
+* [Grouped x64](B1345/B1345-x64.md)
+
+## B01345 (30208-30719)
+
+* [Grouped x8](B01345/B01345-x8.md)
+* [Grouped x16](B01345/B01345-x16.md)
+* [Grouped x32](B01345/B01345-x32.md)
+* [Grouped x64](B01345/B01345-x64.md)
+
+## B2345 (30720-31231)
+
+* [Grouped x8](B2345/B2345-x8.md)
+* [Grouped x16](B2345/B2345-x16.md)
+* [Grouped x32](B2345/B2345-x32.md)
+* [Grouped x64](B2345/B2345-x64.md)
+
+## B02345 (31232-31743)
+
+* [Grouped x8](B02345/B02345-x8.md)
+* [Grouped x16](B02345/B02345-x16.md)
+* [Grouped x32](B02345/B02345-x32.md)
+* [Grouped x64](B02345/B02345-x64.md)
+
+## B12345 (31744-32255)
+
+* [Grouped x8](B12345/B12345-x8.md)
+* [Grouped x16](B12345/B12345-x16.md)
+* [Grouped x32](B12345/B12345-x32.md)
+* [Grouped x64](B12345/B12345-x64.md)
+
+## B012345 (32256-32767)
+
+* [Grouped x8](B012345/B012345-x8.md)
+* [Grouped x16](B012345/B012345-x16.md)
+* [Grouped x32](B012345/B012345-x32.md)
+* [Grouped x64](B012345/B012345-x64.md)
+
+
+# Description
+
+GoL Topology is a reproducible visual corpus of Life-like cellular automata rule space.
+
+The repository contains systematically generated activity fingerprints for thousands of Life-like cellular automata, arranged into binary topologies that expose relationships between neighbouring rules. Every fingerprint is produced using the same deterministic experimental protocol, allowing meaningful visual comparison across entire regions of rule space.
+
+Rather than presenting isolated examples or manually selected patterns, this repository treats the complete rule space as a scientific dataset.
+
+### Methodology
+
+Every rule is evaluated under identical conditions:
+
+* identical initial grid
+* identical toroidal topology
+* identical grid dimensions
+* identical simulation protocol
+* identical activity instrumentation
+* identical rendering algorithm
+* identical stopping criteria
+
+The initial state is published alongside every catalogue, allowing every experiment to be reproduced exactly.
+
+### Fingerprints
+
+Each thumbnail is an activity fingerprint generated from the evolution of a single rule.
+
+These fingerprints provide a compact visual summary of the rule's dynamics while preserving enough structure for similarities and anomalies to be recognised by eye. Rules exhibiting similar behaviour often produce similar fingerprints, while unusual fingerprints frequently identify rules worthy of further investigation.
+
+Each fingerprint is accompanied by summary metadata describing whether the rule:
+
+* stabilised,
+* entered a repeating cycle,
+* continued beyond the experimental limit,
+* and, where applicable, the repeat generation and period.
+
+### Topology
+
+Rules are arranged according to their binary birth and survival bit patterns rather than by rule number alone.
+
+Neighbouring rules therefore differ by small changes in their rule definition, making it possible to observe how behavioural families emerge and evolve across rule space.
+
+### Purpose
+
+The repository is intended as a research corpus for exploring Life-like cellular automata.
+
+Possible uses include:
+
+* visual classification of rule families
+* discovery of unusual or novel rules
+* investigation of behavioural continuity across rule space
+* comparison of related rules
+* selection of rules for deeper mathematical or computational analysis
+* reproducible experimentation using a shared benchmark corpus
+
+### Generation
+
+The catalogues were generated using GoGoL, together with simple Go programs that assemble the generated fingerprints into Markdown catalogues.
+
+Every catalogue can be regenerated from the published methodology, making the corpus fully reproducible.
+
+### GoGoL shortcut script
+
+The raw output activity heat maps were generated using the following GoGoL shortcut script:
+
+```
+rule:B/S
+randomization:5
+grid-size:100X100
+heat-map:Activity
+randomize
+snapshot
+name:./experiment/%born/
+collect-files
+export
+repeat:512,name:%perm %survives,replay-snapshot,step-ahead-by:1000,heat-map-save,repeat-detect-save,heat-map-reveal,sleep:100,rule-perm++
+```
