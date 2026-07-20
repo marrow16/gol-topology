@@ -896,6 +896,117 @@
 * [Grouped x32](B0123456/B0123456-x32.md)
 * [Grouped x64](B0123456/B0123456-x64.md)
 
+## B7 (65536-66047)
+
+* [Grouped x8](B7/B7-x8.md)
+* [Grouped x16](B7/B7-x16.md)
+* [Grouped x32](B7/B7-x32.md)
+* [Grouped x64](B7/B7-x64.md)
+
+## B07 (66048-66559)
+
+* [Grouped x8](B07/B07-x8.md)
+* [Grouped x16](B07/B07-x16.md)
+* [Grouped x32](B07/B07-x32.md)
+* [Grouped x64](B07/B07-x64.md)
+
+## B17 (66560-67071)
+
+* [Grouped x8](B17/B17-x8.md)
+* [Grouped x16](B17/B17-x16.md)
+* [Grouped x32](B17/B17-x32.md)
+* [Grouped x64](B17/B17-x64.md)
+
+## B017 (67072-67583)
+
+* [Grouped x8](B017/B017-x8.md)
+* [Grouped x16](B017/B017-x16.md)
+* [Grouped x32](B017/B017-x32.md)
+* [Grouped x64](B017/B017-x64.md)
+
+## B27 (67584-68095)
+
+* [Grouped x8](B27/B27-x8.md)
+* [Grouped x16](B27/B27-x16.md)
+* [Grouped x32](B27/B27-x32.md)
+* [Grouped x64](B27/B27-x64.md)
+
+## B027 (68096-68607)
+
+* [Grouped x8](B027/B027-x8.md)
+* [Grouped x16](B027/B027-x16.md)
+* [Grouped x32](B027/B027-x32.md)
+* [Grouped x64](B027/B027-x64.md)
+
+## B127 (68608-69119)
+
+* [Grouped x8](B127/B127-x8.md)
+* [Grouped x16](B127/B127-x16.md)
+* [Grouped x32](B127/B127-x32.md)
+* [Grouped x64](B127/B127-x64.md)
+
+## B0127 (69120-69631)
+
+* [Grouped x8](B0127/B0127-x8.md)
+* [Grouped x16](B0127/B0127-x16.md)
+* [Grouped x32](B0127/B0127-x32.md)
+* [Grouped x64](B0127/B0127-x64.md)
+
+## B37 (69632-70143)
+
+* [Grouped x8](B37/B37-x8.md)
+* [Grouped x16](B37/B37-x16.md)
+* [Grouped x32](B37/B37-x32.md)
+* [Grouped x64](B37/B37-x64.md)
+
+## B037 (70144-70655)
+
+* [Grouped x8](B037/B037-x8.md)
+* [Grouped x16](B037/B037-x16.md)
+* [Grouped x32](B037/B037-x32.md)
+* [Grouped x64](B037/B037-x64.md)
+
+## B137 (70656-71167)
+
+* [Grouped x8](B137/B137-x8.md)
+* [Grouped x16](B137/B137-x16.md)
+* [Grouped x32](B137/B137-x32.md)
+* [Grouped x64](B137/B137-x64.md)
+
+## B0137 (71168-71679)
+
+* [Grouped x8](B0137/B0137-x8.md)
+* [Grouped x16](B0137/B0137-x16.md)
+* [Grouped x32](B0137/B0137-x32.md)
+* [Grouped x64](B0137/B0137-x64.md)
+
+## B237 (71680-72191)
+
+* [Grouped x8](B237/B237-x8.md)
+* [Grouped x16](B237/B237-x16.md)
+* [Grouped x32](B237/B237-x32.md)
+* [Grouped x64](B237/B237-x64.md)
+
+## B0237 (72192-72703)
+
+* [Grouped x8](B0237/B0237-x8.md)
+* [Grouped x16](B0237/B0237-x16.md)
+* [Grouped x32](B0237/B0237-x32.md)
+* [Grouped x64](B0237/B0237-x64.md)
+
+## B1237 (72704-73215)
+
+* [Grouped x8](B1237/B1237-x8.md)
+* [Grouped x16](B1237/B1237-x16.md)
+* [Grouped x32](B1237/B1237-x32.md)
+* [Grouped x64](B1237/B1237-x64.md)
+
+## B01237 (73216-73727)
+
+* [Grouped x8](B01237/B01237-x8.md)
+* [Grouped x16](B01237/B01237-x16.md)
+* [Grouped x32](B01237/B01237-x32.md)
+* [Grouped x64](B01237/B01237-x64.md)
 
 # Description
 
