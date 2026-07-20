@@ -1064,13 +1064,13 @@ Possible uses include:
 
 ### Generation
 
-The catalogues were generated using GoGoL, together with simple Go programs that assemble the generated fingerprints into Markdown catalogues.
+The catalogues were generated using [GoGoL](https://github.com/marrow16/gogol), together with simple Go programs that assemble the generated fingerprints into Markdown catalogues.
 
 Every catalogue can be regenerated from the published methodology, making the corpus fully reproducible.
 
 ### GoGoL shortcut script
 
-The raw output activity heat maps were generated using the following GoGoL shortcut script:
+The raw output activity heat maps were generated using the following [GoGoL shortcut](https://github.com/marrow16/gogol/blob/main/cmd/gui/SHORTCUTS.md) script:
 
 ```
 rule:B/S
