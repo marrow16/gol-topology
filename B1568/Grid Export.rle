@@ -1,0 +1,33 @@
+#N ./gol-topology/B1568/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B1568/S
+2bo29bo45bo3bo3bo$5bo26bo14bo12bobo23bo$17bo8bo5bo$15bo44bo2b2o2bo26bo
+2bo$9bo10bo8bo35bo17bo3bo$7bo6bo9bo2b2obo4bobo23bo3bo16bo$16bo31bo8b2o
+35bo$34bo26bo33bo$11bo11bo44bo9bo$50bo14bo$44bo6bo44bo$12bo8bo8bo38bo$
+3bo50bo$15bo3bo18bo13bo21bo12bo$83bo$51bo$8bobo33bo19bo22bo$13bo11bo50b
+o2bo$16bo27bo15bo23bo3bo2bo$3bo3bo42bo6bo24bo10bo3bobo$11bo25bo2bo2bo
+35bo19bo$4bo37bo24bo$9bo$47bo12bo$17bo9bo16bo18bo$15bo22bo56bo$89bo8bo$
+11bo34bo2bo$10bobo5bo18bo47bo$4bo9bo41bo37bo$5bo7bo16bo33bo2bo16b2o10bo
+2bo$5bo35bo14bo$18bo51bo21bo$38bo15bobo6bo33bo$23bo14bo4b2o13bo24bo$15b
+o22bo23bo6bo$4bobo11bo3bo17bo4bo49bo3bo$35bo11bo11bo14bo12bo$7bobo30bo
+27bo7bo10bo$6bo24bo5bo8bo21bo24bo5bo$100b$31bo2bo10bo16b2o18bo$13b2o19b
+o50bo12bo$bo21bo14b2o24bo$77bo12bo$32bo4bo4bo7bo$16bo14bo3bo7bo22bo11bo
+20bo$10bo30bo29bo16bo$16bo35bo19bo9bo2bo$39bo3bo8bo36bo3bo$19bo9bo12bo$
+7bo32bo9bo45bo$3bo2bo3bo7bo23bo7bo7bo38bo$31bo40bo13bo$4bo3bo9bo25bo9bo
+35bo6b2o$21bo4bo5bo10bo42bo$3bo11bo31bo2bo3bo4b3o4bo22bo$bo57bo9bobo4bo
+$3bo3bo10bo8bo13bo3bo31bo11b2o$4bo3bobo16bo38bo4bo9bo2bo3bo9bo$45bo8bo
+11bo15bo12bo$5bo9bo13b2o9bo23bo29bo$49bo11bo2bo8bo16bo$37bo46bo3bo$3bo
+2bo3bo5bo25bo35bo$12bo21bobo29bo22bo$bo27bo63bo$27bo28bo31bo$45bobo$3bo
+43bo8bo20bo2bo4bo$14bo4bo2b2o68bo$3bo11bo11bo11b2o33bo5bo16bo$25b2o2bo
+32bo14bo21bo$11bo46bo4bo14bo8bo$4bo36bo15bo6bobo4bo5bo20bo$o21bo18b2o3b
+obo35bo$27bo5bobo23bo13b2o$48bo3bo2bo20bo6bo6bo8bo$45bo19bo$12bo2bo17bo
+38bo$2bo20bo2bo20bo49bo$bo6bo10bo$4bo6bo37bo2bo$26bo3bob2o14bo34bo13bo$
+o13bo35bo9bo11bo15bo10bo$6bo12bo11bo4bobo27bo10bo7bo$9bo79bo$39bo33bo
+21b2o$bo51bo3bo9bo20bo7bo$5bo2bo27bo14bo5bobo27bo$31bo37bo$7bo47bo19bo
+10b2o$57bo24bo4bo$34bo16bo19bo25bo$3bo21bo35bo17bo$10bo17b2o6bo2bo19bo
+31bo$37bo2bo17bo5bobobo$bo5bo19bo12bo5bo45bo2bo$10bo24bo2bo50bo$8bo32bo
+26bo7bo2bo2bo10bo!

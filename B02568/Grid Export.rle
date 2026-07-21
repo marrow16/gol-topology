@@ -1,0 +1,33 @@
+#N ./gol-topology/B02568/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B02568/S
+o2bo34bobo14bo31bo$o15bo21bo10bo35bo9bo3bo$o23bo30bo10bo$3b2o19bo38bo$
+3bo28bo42bo15bo2bo$19bo33bo30bo4bo6bo$15bo2bo36bo14bo26bo$13b2o7bo7bo5b
+o14bo21bo16bobo$17bo29bo23bo8bo4bo$6bo$27bo23bo4bo37bo$14bo7bo11bo4bo3b
+o16bo5bo$8b2o15bo56bobo$24bo4bo11bo17bo$13bo26bo3bo26bo$54bob2o22bo13bo
+4bo$21bo17bo10bo36bo$50bo15bo$3bobo21bo10bo29bo$32bo14bo15bo15bo$8bo19b
+o10bo30bo2bo16bo$33bo31bo19bo$21bo6bo12bo50bo$22bo11b2o11b2o23bo$31bo6b
+o33bob2o9bo$obo14b2o21bo35bo7bo12bo$5bo3bo11bo24bo3bo36bo6bo$9bo11bo2bo
+12bobo36bo$4bo15bo46bo28bobo$2bo4bobo14bo57bo$24bo8bo23bo16bo$bo9bo3bo
+3bo53bo7bo$bo19bo24bo8bobo4bo9bobo19bo$17bo4bo8bo3bo10bo44bo$30bo26bo
+13bo15b2o$4bo6bo15bo59bo$2bo36bo52bo6bo$3bo45bo24bo6bo$19bo18bo$3bo22bo
+4bo9bo5bo10bo10bobo$8bo36bo34bo$o5bo4bo13bo11bo5bo13bo2bo28bo$19bo3bo
+38bo15bo$58bo2bobo17bo8b2o$44bo11bo6bo26bo$bo6bo29bo9bo11bo26bo9bo$33bo
+65bo$o20bo29bo27bo$4bo37bo4bo22bo9bo$25bo7bo5bo$12bo28b2o41bo3bobo$bo4b
+o10bo77bo$18bo2b2o46bo$26bo36bo10bo5bo6bo10bo$7bo29bo16bo$13bo13bo62bo$
+18bo16bo49bo8bo3bo$6bo38bo42bo4bo$7bo9bobo45bo10bo$9bo10bo6bo33bo4bo6bo
+$18b2o22bo15bo8bo12bo10bo$9bo42bo30bo$8bo18bo27bo31bo10bo$o27bo8bo23bo
+16bo13bo2bo$18bo5bo44bo9bo$73bo$28bo2bobo20bo2b2o18bo$23bo10bo30bo$8bo
+43bo6bo2bo2bo22bo8bo$15bo35bo9bobo15bo$2bo8bo29bo27b2o2bo$5bo11bo6bo19b
+o26bo18bo$36b3o12bo$6bo30bo3bo36bo13bo$5b2o9bo21bo28bo6bo$15bo15bo6bo
+26b2o2bo$3bo17bo7bo32bo17bo$3bobo27bobobo28bo23bo$9bo30b2o$7bo10bo14bo
+7bobo2bo11bobo16bobo18bo$o2bo2bo$6bo19b2o6bo$26bo16bo13bo16bo2bo2bo$57b
+o9bo14bo7bo4bo$19bo16bo37bo7bo4bo7bo3bo$2bo18bo32bo11bo3bo4bo$57bo11bo
+10bo$21bo47bo$4bo7bo27bo13bo41bo$6b2o6bo28bo35bo$11bo3bo9bo9bo40bo$11b
+2o14bo4bo24bo$10bo4bo31bo27bo12bo10bo$44bo16b2o25bo7bo$31bobo46bo$33bob
+o14bo16bo22b2o5bo$24b2o4bo13bo20bo22bo$2bo26bo2bo19bo$4bo2bobo14bo18bo
+55bo$4bo14bo11bo45bo13bobo!
