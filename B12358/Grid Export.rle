@@ -1,0 +1,33 @@
+#N ./gol-topology/B12358/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B12358/S
+9bo11bo37bo10bo$16b2o4bo10bo29bo15b2o13bo$15bo7bo2bo21bo40bobo3bo$8bo2b
+o85bo$43b2o19bo32bo$9bo12bo21bo39bo$19bo32bo11bo15bo2bo8bo2bo$3bo3bo6bo
+28bo2bo23bobo9bo15bo$12bo19bo2bo28bo15bobo$34bo36bo15bo$30bo8bo31b2o21b
+o$19bobo18bo37bo$20bo$30bo4bo41bo5bo7bo4bo$6bo16bo2bo5bo7bo20bo32bo$2b
+2o11bo33bo32bo3bo$16bo5bo29bo$5b2o16bo18bo$19bo5b2o13bo24bo11bobo$bo4bo
+14bo18b2o20bo17bo15bo$9bo7bo40bo$17bo12bobo11bo7bo7bo3bo2bo5bo10bobo$bo
+7bo26bo33bo5bo2bo16bo$33bo37bo14bo$9bo35bo3bo22bo3bo$o5bo17bo$100b$19bo
+44bo6bo$bo12b2o8bo9bo5b2o24bobo3bo$bo2bo39bo12bo36bo$7bo50bo11b2o10bo$o
+6bo30bo$6bo21bo10bo9bo26bo$33bo27bo14bo19bo2bo$27bo21bo8bo20bobo$28bo8b
+o56bo$16bo13bo18bo33bo$31b2o29bo16bo8bo$12bo5bo40bo3bo11bo9bo5bobo$22bo
+2bo22bo18bo4bo22bo$24bo$6b2o7bo9bo4bo46bo$9bo12bo28bobobo$8bo12bo4bo2bo
+10bo3bo12bo26bo7bo$38b2o6bo22bobo8bobo$18bo9bo26bo2bo24bo4bo6bo$26bo67b
+o$22bo4bo3bo27bobo28bo$19bo11bo35bo5bo$45bo12bo26bo3bo$9bo24bo3bo49bo2b
+o$14b2o37bo$11bo$35bo15bo17bo$53bo17bo7bo4bo13bo$21bo20bo16bo$obo29bo
+24bo22bo$7bo23bo49b2o$11bobo25bo7bo10bo17bo$17bo3bo25bo4bo$6bo4b2o14bo
+6bo4bo28bo27bo$13bo2bo4bo3bo8bo5bo7bo4bo3bo19bo5bo$28bo25bo27bo$24bo27b
+o8bo2bo3bo20bo$o4bo77bo10bo$30bo16bo2bo2bo23bo7bo$6bo11bo42bo12bo$5bo9b
+o15bo8bo19bo14bo15bo$4bobo34bo45bo5bo$o29bo7bo34bo$5bo48bo26bo$9bo7bo
+24bo2bo3bo18bo12bo$9bo$5bo17bo23b2o9bo4bo9bobo13bo3bo$48bo2bo17bo14bo$b
+obo2bo24bo55bo9b2o$11bo9bo34bo2bo9bo23bobo$19bo15bo16bo9b2o$13bo3bo26bo
+35bo12bo2bo$59b2o6bo7bo9bo$bo48bo13bo2bo3bo$26bo23bo9bo20bo10bo$3bo8bo
+68bo16b2o$13bo16bo14bo13b2o24bo$o35bo$22bo4bo3bo10bo40bo$12bo30bo29bo
+24bo$36bo45bo7bo$31bo12bo20bo18bo$13b2o18b2o14bobo12bo11bo5bo9bo$21b2o
+44bo$23bo14bo$5bo36bo18bo19bo16bo$93b2o2bo$39b2o7bo11bo6bo23bo$2bo16bo
+12bo12bo6bo23bo8bo$36bo22bo5bo6bo5bo6bo$20bo2bo16bo39bo$40bo4bo27bo4bo
+11bo$5bo5bo16bo18bo5bo8b2o!

@@ -1,0 +1,33 @@
+#N ./gol-topology/B1258/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B1258/S
+2bo10bo41bo12bo23bo$26b2obo12bo4bo15bo$o7bo45bo17bo2bo$18bo4bobo17bo3bo
+$8bo23bo34bo$bo27bo16bo7bo19bo3bobo4bo$24bo33bo27bo9bo$30bo25bo17bo15bo
+$38bo26bo3bo4bo17b2o$o10bo12bo3bo24bo7bo23bo7bo$42bo6bo$o96bo$83bo3bo$
+17bo3bo11bo30bo$4bo2bo6bo23bo3bo21bo$18bo62bo5bobo$7bo25bo4bo14bo3bo4bo
+12bo$o12bobo16bo5bo3bo6bo23bo20bobo$24bo17bo24bo$3bobo6bo6bo9bo4bo34bo
+15bo4bo$11bo12bo18bo23bo6bo$27bo4bo24bo4bo18bo$17bo21bo28bo30bo$4bo39bo
+12bo15b2o3b2o3bo$23bo64bo$10bobo8bo43bo2bo14bo12bo$bo28bo14bo26bo$13bo
+9bo20bo10bo13bo12bo10bo$4bo18bo6bo13bo3bo16bo5bo$16b2o46bo2bo$47bo51bo$
+17bo14bo6bo5bo3bo18b2o10bo$26bobo2bo2bo2bo23bo33bo$2bo3bo18bobobo15bo
+36bo$31bo26bo2b2o28bo$4bo65bo2bo8bo5bo6bo$13bo10bo42bo26bo$6bobo3b2o4bo
+2bo23bo4bo12bo3bo3bo9bo9bo$6bo24bo49bo$bo18b2obo9bo25bo19bo17bo$bo4bo
+30bo10bo50bo$o4bo4bo8bo3bo32bobo23bo$2o55b2o21bo4bo$100b$bo3bo26bo12bo
+3bo9bo5bo12bo$9bo8bo2bo26bo21bo16bo$bo67bo15bo$6bo2bo46bo$b2o43bo48bo$
+4bo8b2o11bo23bo32bobo$30bo56bo$bo2bo3bo42bo25bo18bo$5bo16bo$7bo6bo27bo
+55bo$5bo62bo5bo6bo9bobo$9bo16bo6bo8bo30bo3bo16bo$35bo7bo9bo31b2o$2bobo
+14bo2bo26bo32bo$24bo42bo$2bo64bo$44bo25bo5bo4bo$6bo5bo17bo5bo18bo14b2ob
+o$49bo33bo14bo$7bo41bo2bo5bo$16bo39bo30bo11bo$14bo6bo31bo28bo16bo$12bo
+13bo2bo5bo35bo8b2o4bo11bo$24bo12bo29bo14bo$4bo22bo2bo18bo11bo$bo7bo10bo
+51bo$26b2o11bo7bo38bo$13bo16bo$7bo6bo21bo20bo22bo2bo$34bo42bo9bo$62bo3b
+o$100b$19bo5bo3bo26bo10bo13bo9bo2bo$2bo4bo6bo3bo4bo74bo$33b2o24bo6bo6bo
+$6bo55bo9bo10bo$19bo15bo22bo19bo8bo9bo$29bo28b2o24bo$23bo6bo51bo$14bo
+13bo14bo4bo23bo22bo$22bo52bo$6bo13bobo16bobobo8bo4bo3bo8bo3bo7bo$16bo
+12bobo15bo11bo26bo$bo28bo14bo21bo13bo2bo$40bo18bo25bo$14bobo38bo15bo8bo
+$o4bo36bo22bo13bo$10bo6bo9bo12bo24bo23bo$50bo$3b2o27bo10bo4bo3bo11bo9b
+2o$12bo13bo2bo28bo5bo20bo$23bo38bo17bo4bo3bo$6bo20bo15bo52bo$bo16bo19bo
+10bo14bo24bo4bo$100b$12bo5bo!

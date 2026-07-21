@@ -1,0 +1,33 @@
+#N ./gol-topology/B158/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B158/S
+3bo6bo25bo24bo21bo5bo$15bo7bo19bo12bo7bo$12bo11bo9bo33bo11bo5bo$11bo3bo
+17bo14bo11bo21bo7bo$2bo61bo4bo3bo23bo$16bo5bo7bo33bo24bo$40bo$8bo61bo7b
+o12bo$6bo17bo47bo$51bo7bo22bo4bo8bo$bo26bo28bo13bo7bo$34bo3bo16bo23bo$
+8bo24b3o6bo8bo24bo$16bo21bo11bo$55bobo9bo28bo$o3b2o18bo19b2o31bo21bo$6b
+o20bobo47bo11bo5bo$19bo38bo11bo22b3o$37b2o20bo14bo$11bo3bo6bo8bo20bo8bo
+30bo$34bo10bo$13bo12bo9bo2bo4bo7bo16bo14bo$bo72b2o$8bo4bo13bo2b2o3b2o
+29b2o13bo11bo$11bo22bo13bo26bobo11bo4bo$bo5bo9bo3bo13bo10bo6bo20bo$15bo
+19bo2bo$2bo12bo3bo8bo2bo34bo11bo3bo$6bobo3bo15bo13bo$76bo11bo$8bo66bo
+15bo3bo$11bo2bobo55bo$28bo45bo$13bo27bo12bo25bo$56bo18bo8bo$14bo35bo14b
+o8bo3bo7bo4bo$o2bo6bo20bo11b2o51bobo$42bo4bobo8bo13bo$8bo33bo$67bo2bo4b
+o$23bo18bo26bo8bo20bo$42bo5bo14bo$7bo54b2o13bo7bo8bo$2bo10bo33bo13b2o$
+8bo6bo10bo10bo3bo13bo13bo9bo2bo12bo$17bobo31bo22bo16bo2bo$10bo10bo11bo
+28b2o4bo$49bo18bobo11bo$27bo3bo7bo7bo7bo2bo7bo8bo6bo8bo$o4bo50bo28b2o$
+6bo16bo46bo14bo$10bo5bo16bo28bo13bo20bo$8bo4bo34bo$2bo12bo14bo22bo15bo
+6bo$26bo29bo2bo$27bo5bo21bo2bo2bo$2bo7bo29bo24bo17bo7bo$6bo60bo21bo3bo$
+46bo52bo$14bo9bo19bo$2bo28bo9bo24bo2bo5bo$5bo29bo7bo14bo17bo$2bo7bo4bob
+obo19bo38bo$8bo11bo12bobo14bo14bo19bo$3bo9bo54bo28bo$51bo7bo13b2o4bo17b
+o$15bobo48bo8bo19bo$o22bo8bo15bo2bo25bo$10bo10bo16bo6bo5bo$7bo3bo27bo
+15bo35bo$4bo10bobo10bo6bo5bo29bo19bo$10bobo13bo5bo34bo$5bo16bo15bo11bo$
+3bo21b2o53bo$44bo42bo5bo$10bo19bo15bo51bo$7bo19bobo5bo4bobo53bo$39bo3bo
+10bo23bo20bo$14bo6bo8bo62bo$43bo25bo16bo$45bo26bo16bo$15bo34bo$2bo36bob
+o15bo28bo7bo$25bo34b2o11bo$17bo18bo52bo$2b2o3bo2bo14bo43bo10bo11bobobo$
+31bo19bo8bo22bo4bo$5bo3bo39bo6bo21bo$o89bo8bo$23bo4bo6bo10bo$15bo18bo
+10bo9bo13bo$29bo36bo3bo3bo11bo$31bo22bo31bo5bo$29bo16bo2bo17bo8bo15bo$
+7b2o18bo60bo6bo3bo$18bo49bobo23bo$14bobo5bo5bo6bo7bo14bo14bo10bo2bo$80b
+o14bo$2bo34bobo35bo$30bo43bo!
