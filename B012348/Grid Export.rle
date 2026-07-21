@@ -1,0 +1,33 @@
+#N ./gol-topology/B012348/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B012348/S
+9bo9bo37bo10bo$o2bobo9bo26bo$bo5bobo21bo48bo$13bo18bo19bo10bo3bo26bo$
+38bo2bo$4bo7bo7bo35bo6bo18bo4bo$16bo62bo2bo14bo$40bo17bo10bo21bobo$o10b
+o11bo10bobo15bo43bo2bo$14bo2bo4bob3o2bo4bo2bo22bo31bo$bo2bo7bo18bo$5bo
+16bo4bo12bo34bo$5bo4bo40bo2bo4bo26bo$4bo87bo$32bo4bo36bo2b2o15bo$33bo6b
+o17bo26bo11bo$16bo48bo15bo$o17bo4bo39bo$22b2o23bo13bo23bo5bo$100b$10bo
+28bo3bo48bo$63bo25bo$3bo58bo21bo5bo$26bo44bo18bo$4bo2bo4bo20bo30bo6bo$b
+o24b2o5bo12bo18bo$6bo53bo13b3o11b2o$2bo31bo16bo16bo$32bo29bo19bo2bo11bo
+$27bo5bo4bo43bo2bo$17bo22bo33bo$16bo24bo46bo3bo$15bo41bo14bo3bo13bo$bo
+2bo13b2o4bo41bo21bo$28bo48bo16bo$66bo19bo$32bo28bo5bo28bo$7bo22bo46bo
+18bo$23bo2bo10bo4bo3bo8bo25bo11b2o$11bo31bo5bo22bo5bo18bo$18bo45bo17bo$
+29b2o5bo22b2o$5bo5bo3bo22bo10bo8b2o3bo7bo14bo$32bo37bo$7bo15bo11b2o5bo
+27bo$26bo24bo17bo10bo$3bo16bo34bo5bo3bo24bo$19bobo27bo19bo$13bo39bo11bo
+27bo$4bo4bo16b2o30bo39bo$3bo2bo7bo3bo19b2o2bo6bo39bobo$3bo44bo15bo26bo
+7bo$44bo10bo8bo4bo$14bo25bo50bo$72bo11bo10bo$83bo$2bo64bo$32bo20bo25bo
+16bo$24bo4bo11bo19bo36bo$28bo11bo12bo2bo10bo15bo$bo12bo10bo19bo4bo3bo
+17bo5bo$12bo3bo3bo10bo33bo32bo$14bo19bobo28bo25bo$21bo9bo17bo29bo4bo$3b
+o9bo4bo5bo6bo22bo35bobo$7bo31bo42bobo$6bo23bo7bo19bo$65bo7bo3bo$o5bo2bo
+19bo13bo$5bo12bo37bobo6bo15bobo$38bobo33bo16bo3bo$o14bo$17bo9bo2bo65bo$
+11bo14bo6bo5bo2bo11bo7bo3bo19bo$17bo10bo35b2o5bo11bo15bo$100b$35bo11bo
+5bo$17bo4bo4bo16bo19bo4bo10bo$3bo10bo7bo31bo8bo18bo8bo$11bo2bo7bo16bo3b
+o21bo22bo6b2o$40bo31bo18bo3bo$10bo5bo14bo8bo36bo12bo$15bo19bo3bo16bo34b
+o7bo$4bo17bo21bo8bo43bo$15bo22bo28bo17b2o$2o13bo11bo47bo$59bo5bo6bo14bo
+5bo$65bo16bo5bo$27bo15bo2bo6bo32bo$o39b2o4bo9bo11bo7bo21bo$2bo49bo23bo$
+6bo36bo10bo9bo32bo$28bobo2bo20bo10bo$47bo2bo34bo$37bo$2bo29b2o6bo5bo6bo
+4bo3bo10bo$o4bo2bo44bo32bo$4bo13b2o7bo16bo15bo3bo21bo$20b3o$15bo24bo6bo
+10bo11bo7bo13b2o!
