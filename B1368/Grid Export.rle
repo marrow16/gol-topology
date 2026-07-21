@@ -1,0 +1,33 @@
+#N ./gol-topology/B1368/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B1368/S
+19bo39bo5bo$29bo2bo18bo$27bo28bo17bo$18bo$o5b2o14bo64bo4bobo$22bo15bobo
+5bo$19bo18b2o3bo5bo2bobo$6bo21bo9bo5bo6bo13bo3bo8bo19bo$9bo36bo25b2o10b
+o12bo$4bobo18bo16bo16bo35bo$31bo$5bo39bo12bo$8bo11bo27bo16bo13bo$16bo
+20bo30bo$22bo4bobo14bo11bo19bo$19bo37bobo6bo25bo$83bo$48bo2bo11bo$26bo
+10bo$11bo23b2o28bo$23bo3bo11bo2bo23bo3bo$6bo47bo43bo$11bo33b3o33bo12bo$
+9bo9bo7bo2bo13bo21bo10bo8bo3bo$bo5bo17bo21bo31bo11bo$8bo35bo48bo$5bo5bo
+51bobo$bo26bo23bo20bo4bo$bo48bo4b2o$21bo35bo27bo$5bo$6bo9bo9bo58bo$16bo
+35bo27bo14bobo$8bo4bo13bo23bo14bo29bo$2bo2bo3bo59bo$25b2o13bo13b2o9bo
+11bo2bo$4bo27bo40bo8bo$5bo9bo17bo14bo24bo$12bo29bo38bo4bo$3bo2bo41bo34b
+o4bo$50bo11bo26bo$8bo22bo2bo4bo18bo$60bo$o24bo35bo8bo27bo$28bo18bo5bo
+19bo$11bo44bo21bo2bo12bo$53bo36bobobo$7bo38bo49bo$32bo3bo$2bo6bo28bo4bo
+13bo30bo6bo$28bo5bo38bo2bo11bo$3bo51bo15bo$13bo7bo2bo18bo13bo41bo$bo19b
+o29bo$34bo2bo4bo11bo44bo$4bo11bobo12bo3bo45bobo11bo$32bo9bo4bo$10bo12bo
+7bo4bo27bo3bo14bo5bo9bo$40bo$20bo9bo51bo11bo$8bo3bo23bo11b2o$11bo4bo7bo
+2bo21bo2bo21bo4bo18bo$7bo66bo7bo2bo2bo4bo$31bo11b2o22bo9bo3bo5b2o$47bo
+6bo3bo6bo3bo3bo19bo4bo$49bo27bo$25bo3bobo15bo15bo10bo$8bo19bo19bo10bo3b
+o$5bo23bobo13bobo11b2o6bo2bo12bo11bo$3bo13bo5b3o4bo4bo22bo31bo$19b2o16b
+2o11bo19bo$56b2o11bo3bo$8bo11bo6bo4bo24bo24bo3bo$2bo15bo7b2o2bobo22bo2b
+o2bo$43bo7bo11bo17bo13bo$9bo27bo59bo$33bo5bo6bo15bobo7bo13b2o$5bo23bo2b
+o26bo22bo$27bo60bo$10bo31bo3bo6bo32bo4bo$24bo42bo2bo15bo12bo$2bo33bo19b
+o4bo6bo$28bo3bo2bo15bo15bo10bo20bo$38bo13bo24bo$3bo10bo7bo18bo10bo$bo
+13bo2bo5bo12bo3bo20bo$6bo5bo22bobo5bobo10bobo13bo$61bobo11bo$7bo5bo10bo
+10bo20b2o21bo$25bo9bo9bo48bo$19bo17bo48bo2bo$43bo24bo26bo$5bobo60bo7bo
+2bo4bo7bo$6bo36bo9bo24bo11bo$7bo4bo11bo8bo12bo20bo14bo2bo4bo$3bo20bo21b
+ob2o38bo$5bo41bo5bo$2bo4bo17bo7bo3bo7bo8bo2bo3bo13bo22b2o$36bo13bo$16bo
+bo26bo38bo8b2o!
