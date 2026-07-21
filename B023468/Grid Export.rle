@@ -1,0 +1,33 @@
+#N ./gol-topology/B023468/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B023468/S
+20bo15bo11bo12bo21bo$7bo38b2o8bo11b2o$2bo23b2o23bo20bo18bobo$bobo27b2o
+41bo$20bo10bo20bo$12bo16bo30bo24b2o$20bobo5b2o5bo15bo31bo$54bo9bo6bo11b
+o2bo2bobo$18bo9bo41bo10bo$10bo8bo9bo35bo4bo6bo$8b2o18bo30bo5bo$19bo19bo
+7b2o26bo2bo$44bo30bo$18bo2bo37bobo28bo$35bo$4bo16bo21bo6bo15bo22bo6bo$
+73bo3bo4bo$21bo65bo$47bo41bo$15bobo$12bo12bo19bo17bo3bo5bo$10bo$5bobo
+14bo4bo6bo24bo15bo$6bo40bo8bo36bo$28bo33bo11bo$13bo13b2o29bo30bo$6bo12b
+o14bo3bo10bo22bo18bo$bo4bo2bo29bo5bo18bo11bo11bo$30bo4bo21bobo22bo7bo$
+15bo21bo21bo32bobo$40bo5bo3bo3bo10bo$11bo12bo20bo4bo3bo7bo34bo$4bo9bo6b
+o8bo8bo11bo8bo$o12bo$11bo4b2o16b2o11bo14bo22b2o$4bo31bo6bobo19bo25bo2bo
+$19bo38b2o36bo$5bo5bo8bo6b2o21bo43bo$13bo6bo9bo51bo4bo6bo$11bo9bo2bo2bo
+2bo19bo$10bo6bo6bo21bo10bo18b2o8bo$4bo2bo8b2o3bo47bo$17bo40bo12bobo19bo
+$16bo14bo6bo5bo2bo15bo14b2o$10bo11bo7bo49bo3bo2bo$19bo12bo21bo16bo2bo$
+13bo14bo6bo19bo3bo18bo8bo$23bo47bo2bo$36bo24bo6bo$7bo8bo14bo8bo$15bo20b
+o13bo40bo$2bo30bo36bo$15bo69bo$94bo$50bo38bo2bo$22b2o17bo8bo5bo16bo24bo
+$7bo6bo10bo6bo$2b2o9bo3bo2bo4bo8bo8bo29bo$12bo38bo38bo$43bo24bo2bo17bo$
+9bo18bo4bo2bo33bo14bo$6bo11bo12bo21bo6bo24bo4bo6bo$13bo2bo39bo2bo12bo$
+19bo57bo3bo4bo$22bo32bo5bo3bo$10bo2bo$6bo33bo$20bo10bobo18bo30bo$bo18bo
+23bo4bo4bo26bo$10bo2bo22bo16bo32bo3b2o$6bo72bob2o7bo$29b2o14bo12bo12bo
+7bo11bo$33bo2b2o23bobo$8bo28b3o3bo3bo$o8bo6bo39bo9bo16bo$12bo8b2o33bo
+10bobo15bo$68bo18bo6bo$23bo$16bo16bo10bo13bo36bo$27bobo14bobo2b2o6bo31b
+o3bo$11bo20bo5bo35bo$22bo5bo44bo10bo$48bo12bo$3bo15bo32bo23bo5bo$32bo9b
+o$o24bo30bo14bo8bo3bo$13bo13bobo13b2o6bo9bo18b2o9bo$36bo37bo2bo17bo$6bo
+3bo17bo29bobo14bo21bo$22bo9bo58bo2bo$40b2o22bo$7bo21bo14bo7b2o3bo41bo$
+15bo11bo9bo39bo$o18bo11bo6bo10bo7bo8bo31bo$2bo5bo44bo$8bo3bo13bo27bo7b
+2o26bo$6b2o16bo6bo51bo12bo$24bo21bobo21bo3bo13bo$18bo12b2o28bo$23bo27bo
+7bo25bo!

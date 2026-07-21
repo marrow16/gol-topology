@@ -1,0 +1,33 @@
+#N ./gol-topology/B3468/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B3468/S
+31bo$4bo2bo11bo29b2o6bo$15bo21bo13bo5bo28bo6bo$95bo$2bo29bo14bobo14bo
+11bo$17bo13bo14b2o19bo5bo15bo9bo$21bo13bo29bo2bo3bo12bo$bo13bo65bo12bo
+3bo$bo3bo6bo56b2obo17bo$23bo$5bo12bo11bo9b2o7bo$41bo18bo$100b$27bo25bo
+27bo2bo$10bo29bo9bo39bo$17bo40bo9bo14b2o14bo$11bo11bo8bo36bo23bo$2bobo
+8bo39bo$7bo31bo28bo19bo2bo2bo$2bo38bo5bo11b2o6bo16bo$3bo9bo47bo20bo7bo$
+9bo3bo28bo19bo12b2o$o75bo8bo$35bo2bo5bo9bo16bo$20bo18bo19bo2bo22bo7bo$
+10bo14bo8bo$8bo10bo36bo35bo$4bo2bo2bo27bo11bo3bobo3bo7bo3bo7bo2bo$7bo2b
+o7bob2o29bo7bo3bo14bo9bo3bo$19bo34bo10bo$36bo19bo39bo2bo$24bo6bo6bo7bo
+3bo23bo$17bo5bo31bo25bo$11bo29bobo8bo4bo36bo$26bo4bo3bo50bo3bo$15bo$58b
+obo26bo5bo$2bo2bo10bo12bo49bo$9bo4bo7bo5b2o16bo17bo10bo$13bo9bo47bo$o
+90b2o$10bo51bo24bo4bo$16bo5bo20bo32bo11bo2bo2bo$7b2o15bo29bo$bo2bo30bo
+30bo18bo7bo$35bo12bo5bo39b2o$11bo12bo6bo10bo3bo9bo31bo$bo4bo3bo75bo8bob
+o$10bo31bo33bo19bo$10bo15bo30bo17bo$8bo26bo62bo$41bo26bo5bo$13bo3bo15bo
+10bo2bo3bo12bo19bo$53bo9bo5bo8bobo6bo4bobo4bo$37bo11bo4bo26bo8bo$17bo
+63bo10bo$49bobo5bo10bo9bo2bobo$18bo21bo$50bo6bo17bo19bo$o22bo15bo13bo
+32bo5bo$18bo8bo13bo7b2o11bo22bo$26bo9bo2bo4bo9bo20bo8bo2bo$15b2obo4bo6b
+2o10bo4bo6bo15bo11bo15bo$11bo46bobo36bo$2bo4bo49b2o28bo4bobo$o7bo7bo7bo
+38bo8bo19bo$o4bobo8b2o8bobo6bo9bo51bo$38bo25bo30bo$17bo39bo$27b2o53bo$
+12bo38bo31bo6bo$3bo10bo3bo31bo4bo18bo14bo$bo37bo14bo18bo15bobo$12bo79bo
+$3bo4bo31bo48bo3bo$11bo22bo9bo$50bo21bo22bo$6bo9bobo23bo19bo3bo$18bo39b
+o21bobo2bobo$17bo26bo43bo$5bo10bo17bo9bo14bo6bo4bo2bo5b2o$6bo5bo7bo19bo
+14bo14bo18bo6bo$10b2o12bo4bo24bo29bo$71bo$8bo4bo51bo$26bo68bo$16bo20bo
+4bo27bobo2bo14bo$4bo5bobo14bo25bo$80bo$bo6bo17bo2bo23bo35bo8bo$6bo38bo$
+6bo3bo3bobo8bo5bo3bob2o16b2o$o29bo12bo23bo17bo7bo$3bo44bo12bo6bo15bo8bo
+$9bo45bo20bo13bo$2bo78bo5bo$9bo2bo33bo16bo7bo$8bo29bo22bo33bo$o16bo12bo
+5bo2bo3b2o11bo9bo4bo18bobo$61bo!
