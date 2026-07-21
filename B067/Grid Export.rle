@@ -1,0 +1,34 @@
+#N B067/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B067/S
+10bo21bo28bo8bo7bo5bo9bo$6bo12bo37b2o4bo15bo$28bo5b2obobo26bobo10bo3bob
+2o$21bo3bo34bo16bo6bo$bo26bo19bo3bo9bo28bo2bo$29bo4bo8bobo6bo6bo20bo16b
+o$5bo7bo6bo23bo24bobo9bo$7bo5bo50bo16bo2bobo$18bo45bo3bo3bo2bo$7bo25bo
+31bo12bo3bo3bo8bo$23bo$28bo24bo34bo3bo$4bo6bo58bo9bo$8bo7bo20bo28bo32bo
+$7bo30bo3bo5bo6bo$19bo44bo$42bo3bo3bo7bo6bo$23bo10bo12bo3bo14bo5bo3bo
+12bo$14bo14bo29bo13bo14bo$8bo8bo8bo4bo13bo30bo5bo$45bo3bo15bo2b2o$52bo$
+10bobo59bo15b2o2bobo$18bo10bo9bo16bo13bo23bo$bo50bo8bo37bo$79bo2bo13bo$
+16bo16bo5bo3bo$61bo11bo24bo$5bo5bo18bo34bo$3bo15bo8bo6bo3bo21b2o32bo$
+38bo25bo$11bo4bo2bo2bo20bo2b3o4bo5bo$24bo$7bobo12bo3bo16bo22bo3bo5bo5bo
+3bo9bo$o56bo10bo$47bo40bo3bobo$84bo6bo$15bo31bo10bo12bo18bo6bo$11bo17bo
+19bo21bo$o16bo33bo19bo18b2o6bo$23bo19bo6bo18bo21bo$4bo13bo42bo2bo$11bo
+16bo17bo8bo17bo13bo$9bo15bo$5bo17bobo6bo17bo19bo$20bo2bo26bo11bo3bo3bo
+6bo20bo$16bo31bo12bo9bo7bo9b2ob2o4bo$47bo12bo9bo6bo5bo$25bo8bo31bo17bo
+14bo$2o8bo19bo48bo14bo$18bo5bo23bo4bo7b2o5bo$5bo9bo3bo10bobo6bobo10b2o
+25bo13bo$34bo18bo20bo7bo$18bo17bo13bo23bo8bo14bo$bo57bo14b2o8bo7bo$12bo
+23bo3bo25bo24bo4bo$b2o10bo32bo20bo18bo6bo$17bo6bo17bo15bo30bo$bo45bo14b
+o12bo10bobo$5bo23bo12bo11b2o11bo14bo$15b2o9bo23bo21bo11bo$31bo15bo45bob
+o$3bo10bo22bo4bo9bobo10bo6bobo8bo$9b2o$11b2o22bo54bo$39bo7bo14bo22bo$
+16bo28bo15bo$18bo7bo23bo35bo5bo$50b2o13bo11bo6bo$16bo9bo16bo4bo3bo2bo
+41bo$2bo3bo2bo$67bo15bo2bo11bo$23bo29bo$21bo24bo9bo3bo20bo$16bo6bo10bo
+8bo4b2o9b2o$7bo22bo8bo4bo4bo3bo29bo$o2bo61bo3bo11bo$13bo38bo18bo$9bo4bo
+25bobo3bo28bo6bo$100b$10bo5bo64bo$6bo24bo25bo9bo20bo$bo24bo20bo6bo$36bo
+59bo2bo$25bo5bo35bobo12bo$37bo16bo5bo$4bobo14b2o31bo$7bo61bo2bo5bo4bo$b
+o22bo34bo8bo11bo18bo$10bobo15bo6bo11bo25bo$11bo5bo28bo29bobo$o3bo52bobo
+$7bo5bo8bo18bo34bo21bo$15bo47bo18bo$19bobo34bo4bo25bo6bo$40bo26bo18bo$
+10bo6bo40bo39b2o$5bo3bo22bo17bo7bo3bo9b2o$7bo30bo4bo7bo$bo30bo2bo9bo19b
+o20bo12bo!

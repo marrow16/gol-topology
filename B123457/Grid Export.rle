@@ -1,0 +1,33 @@
+#N B123457/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B123457/S
+o14bo3bo2bo8bo9bo36bo2bo$10bo3bo9bo4bo6bo2bo2bo25bo$23bo22bo14bo$30bo
+25b2o22bo$49bo9bo$10bo12bo9bo3bo14bo7bo6bo5bo14bo4bobo$29bo3bo8bobo24bo
+8bo7bo$6b2o29bo9bo32bo3bo$4bo2bo15b2o4bobo24bo13bo$23bo8bo4b2ob2o8bo5bo
+26bobo3bo6bo$78bo5bo12bo$39bo18bo6bo$43bo$37bo18bobo17bo19bo$28bo22bo
+25bo2bo8bo$4bo70bobo$6bobo4bo15bo26bo6bo7bo6bo16bo$42bo41bo$5bo41bo2bo
+11bo4bo7bo17bo$16bo12bo14bo$30bo9bo19bo$11bo48bo3bo11bo3bo$17bo25bobo5b
+o13bo9bo5bo$41bo8bo9bo29bo$12bobo27bo3bo18bo29bo$5bo13bo55bo22bo$35bo
+25bo$4bo5bob2o30bobo17bo22bo4bo2bo$bo9bo40b2o10bo3bo10bo14bo4bo$35bo22b
+o34bo$bo6bo23bo20b2o$19b2o8bo15bo8b2o2bo37bo$obo4bo31bo31bo6bo6bo9bobo$
+95bo$o17bo15bo35bo15bo6bo$17bo11bo2bo$3bo34bo5bo10b2o$2bo2bo34bo8bo30bo
+10bo$o17bo6bo16bo3bo6bo8bo5bo$7bo6bo10bo23bo10bo17bo2bo6bo$2bo15bobo35b
+o20bo$48bo11bo8bo10bo$4bo10bo35b2o13bo$39bo7bo25bo15bo2bo$o40bobo25bo$
+39bo16bo20bo12bo$7bo35bo12bo10bo7bo5bo4bo$40bo24bo12bo$32bo3bo28bo12bo$
+46bo5bo14bo31bo$13bo14bo62bo$13bobo64bo6bo8bo$71bo$14bo8bo20bo$3bo43bo
+15bo$2bo10bo36bo24bo7bo$3bo4bo72bo6bo$37bobo3bo14bo4bo24bo$9bo20bo29b2o
+4bo$5bo21bo$bo88bo$16bo54bo3bo2bo16bo$31bo6bo33b2o14bobo$5bo22bo8bo18bo
+$2bo12bo11bo4bo11bo4b2o4bo6bo5bo$9bo65bo$12bo47bo31bo$18bo36bo7bo4bo13b
+o10bo$30bo18b2o14bo8bo2bo$40bo32bo5bo11bo$3bo24bo32bo9b2o7bo13bo$5bo29b
+o4bo17bo$13bo49b2o10bo18bo$20bo10bo9bo3bo4bo$51bo12bo27bo$18bo26bo10bo
+2bo$4b2obo14bo31bo19bo8bo$13bo4bo26bo6bo27bo$43bo17bo$12b3o45bo13bo11bo
+11bo$37bo9bo48b2o$8bo40bo21bo12bo$8bo12bo31bo26bo12bo$6bo44bo6bo2bo6bo
+22bo$24bo24bo6bo2bo32bo$27bo5bo28bo11bo8bo$59bo$26bobo48bo8bo$12bo4bo5b
+o10bo35bo13bo$bo25bo18bo39bo$bo13bo26bo52bo3bo$21bo30bo34bo$13bo7bo2b2o
+5bo7bo8bo11bo28b2o$7b2o6bo26bo2bo8bo9bo25b2o3bo$10bo31bo4bo7bo34bo$5bo
+6b2o42bobo29bo$33bo9b2o9bo14bo18bo$53bo3bo2bo16bo3bobo12bo$6bo9bobo34bo
+16bo$28bo27bo12b2o2bo!

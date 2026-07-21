@@ -1,0 +1,33 @@
+#N B12457/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B12457/S
+49bo22bo15bo$57bo6bo6bobo$91bo$40bo13bo2bo2bo32bo$26bo26bo5bo22bo4bo$6b
+o34bo9bo9bo23bo9bo$33bo6bo20bo4bo$18bo50bo28bo$52b2o32bo$3bo4b2o25bo4bo
+5bo4bo33bo$o6bo2bo14bo26bo23bo16bo$52bo6bo20bo$17bo29bo22bo20bo$23bo20b
+o22bo$36bo19bo9bo5b2o$9bo17bo48bo7bo$19bo25bo4bo32bo$31bobo28bo2bo18bo$
+2b2o20bo13bo22bo9bo$4bo21bo9bo9bo2bo37b2o$10bo12bo10bo10bo11bo4b2o7b2o$
+2bo3bo2bo24bo4bo4bo10bo21b2o16bo$2bo$45bo26bo3bo6bo$3bo15bo3bo20bo23bo
+4bo5bo10bo$43b2o6bo17bobo5bo9b2o7bo$2bo17bo15bobo17bo4bo22bobo5bo6bo$7b
+o13bo2bo8bo23bo35bobo$16bo9bo25bo17bo5bo14bo$13b2o2bo28bo19bo$5bo24bo2b
+2o14bo10bo$41bo21bo$32bo$12bo8bo68bo$9bo9bo3bo47bo17bo5bo$6bo66bo5bo6bo
+4bobo$11bo24bo16b2o30bo8bo$32bo6bo16bo16bo5bo$25bobo$26bo13bo$11bo31bo
+21bo19bo3bo$11bo60bo2bo14bo$20bo11bo10bo27bo19bo$o15bo26bo40bo2bo9bo$
+13bo14bo2bo26bo3bo20bo$10bo15bo9bo5bo20bo12bo4bo5bo4bobo2b3o$6bo31b2o4b
+o31bo12bo6bo2bo$21bo34bo$15bo9bo15bo27bo23bo3bo$12bo9bo19bo49bobo$8bo$
+18bo11bo20bo4b2o32bo2bo$23bo26bo8bo31bo$bo18bo4bo5bo4bobo11bobo7bo7bo5b
+o14bo4bo$4bo49bo25bo$3bo2bo20bo23b2o7bo13bo17bo$19bo20bo14bo$35bo46bo
+13bo$11bobo25bo8bo26bo5bo$5bo33bo4bo2bo5bo$bo46b2o33bo$38bo13bo8bobo35b
+o$3bo17bo16bo18b2obo27bo$65bo18bo$17bo11bo18bo9bo28bo6bo$19bo13bo2bo28b
+o18bo10bobo$39bo15b2o10bo30bo$33bo17bo18bo$26bo15bo7bo41bo$38bo28b2o13b
+o9bo$6bo20bo3bo33bo29bo$71bo$6bo2bo15bo8bo2bo20bo20bo$8bo23bo49bo8bo$
+10bo2bo9bo3b2o5bobo2b3o21bo31bo$5bo3bo51bo17bo14bo$27bo2bo17bo9bo29bo$
+13bo69bo$61bo6bo3bo9bo2bo$19bo12bo19bo15bo$30bo28b2o$12bo35bo30bo$19bo
+13bo11bo35bo$37bo32bo$12bo$33bo46bo$b3o4bo3bo25bo30bo4bo$15bo18b2o3bo9b
+2o7bo12bo$o6bobo14bobo30bo26bo$10bo25bo3bo5b2o33bo$45bo30bo$16bo17bo9bo
+3bo5bo9bo15bo$19bobo45bo10bo20bo$27bo11bo34bo16bo$3o21bo23bo$30b2o11bo
+3bo26bo6bo$9bo15bo2bo31bo13bo15bo$bo22bo8bo28bo5bo21bo$21bo15bo9bobo$o
+28bo57bo8bo!

@@ -1,0 +1,33 @@
+#N B01234567/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B01234567/S
+15bo9bo8bo4bo34bo$16bo2bo21bo3bo10bo14bo10bo$26b2o16bo2bo45bo$bo33bob2o
+2bo53bo$21bo17bo7bo7bo4bo8bobobo14bo$2bo22bo36bo4bo$16bo8bo14bo3bo24bo
+22bo$16bo19bo16bo6bo16bo7bo10bo$39bo6bobo3bo9bo11bo10bo10bo$16bo19bo34b
+o$40bo4bo28bo8bo6bo$11bo5bo12bo21bo22bo3bobo$3bo12bobo21b2o2bo12bo13bo
+3bo9bo$37bo38bo22bo$ob2o7bo44bo3b2o17bo$4bo16bo30bo15bo9b3o3bo$4bo7bo5b
+o7bobo6bo40bo$50bo16bo$16bo8bo12bo12bo7bo12bobo5bo$13bobo8bo12bo10bo13b
+o24bo$19bo26bo6bo4bo8b2o4bo18bo$11bo14bo9bo5bo8bo15bo18bo$19bo36b2o21bo
+8bo7bo$25bo6bo25bo8bo15b2obo12bo$5bo41bo11bo3bobo20bo$13bo17bo41bo$10bo
+27bo9bo14bo$78bo3bo5bobo$8bo41bo11bo$4bo2bo33bo$21bo6bo39b2o12bo$4bo22b
+obo24bo26bo17bo$2bo73bo12bo$21bo7bo18bo6bo35bo7bo$10bobo3bo14bo35bobo
+22b2o$26bo$7bo6bo27bo$43bo20bo4bo9bo16bo$13bo16bo2bo3b2o11bo32bo6bo$11b
+o9bobo5bo$44bo9bo15bo$2bo13bo50bo30bo$2bo2bo2bo11bo6b2o27bo$29bo9bo43bo
+$34bo5bo14bo$27bo19b2o7bo$44b2o40bo5bo$8bo12bo4bo37bo7bo13bo3bo$100b$
+11bo48bo3b2o4bo2bo23bo$11bo11bo4bo10bo12bo4bo2bo25bo$10bo10bo47bo19bo9b
+o$22bo19bo3bo33bo$5bo11bo35bo42bo$2bo29bo37bo9bo4bo$o8bo35bo24bo15bo5bo
+$27bo19bo2bobo$20bo40bo7b2o28bo$19bo49bo4bo$53bo25bobo$4bo37bo23bo12bo
+2bo9bo$11bo3bo11bo4bo62bo$65bo30bo2bo$bo2bo10bo4bo2bo10bo5bo8bo3bo9bo$
+5bo6bo45bo39bo$17bo50bo23bo$9bo20b2o10bo39bo$2bo38bo29bo4bo7bo3bo4bo$
+10bo22bo7b2o2bo53bo$58bo4bo$40bo37bo$9bo7bo10bo9bo42bo14bo$14bo13bo66bo
+$39bo48bo$3b2o37bo37bo$bo45b2o35bo$2bo50bo6bo10bo9bo16bo$46bo13bo7bo$bo
+23bo10bo32bo2bo5bo$7bo2bo8bob2o9bo15bo7bo5bo2bo4bo$5bo17bo8bo6bo36bo2bo
+5bo$16bobo33bo29bo6bo$o12bo31bo$13bo11bo9bo3bo$bo29bo26bo9bo4bo$40bo3bo
+16bo11bo8bo13bo$95bo$60b2o11bo15bo3bo$46bo24bo23bob2o$12bo26bo$23bo41bo
+7bo$33bo34bo16bo$8bo16bo30bo25bo4bo7bo$10bo8bo19bo6bo34bo5bo5bobobo$40b
+o47bo$8bo5bo8bo22bo2bo3bo19bo7bo3bo12bo$o54bo18bo7bo8bo7bo$14bo6bo11bo
+16bo$27bo27b2o$21bo56bo!

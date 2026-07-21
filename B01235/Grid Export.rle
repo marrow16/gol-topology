@@ -1,0 +1,33 @@
+#N B01235/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B01235/S
+17bo10bo60bo$4bo12bo9bo43bo$3bo12b2o74bo$5bo37bo47bo$100b$bobo11bo13bo
+7b2o50bo2bo4bo$44bo9bo3bo24bo7bo7bo$o8bo9b2o$12bo80bo$21bo24bo9bo42bo$
+11b2o19bo14bo21bo$4bo7bo8bo20bo15bo12bo$39bo30bo$24bo43bobo$10bo5bo42bo
+$o9bo34bo20bo5bo21bo$3bobo5b2o25bo$100b$15bo12bo34bo4bo29bo$bo3bo10bo
+35bo2bo13bobo19bo$44bo41bo$35bo11bo3bo47bo$14bo16bo10bo34bo16bo$21bo39b
+o28bo$2bo46bo18bobo15bo$17bo51bo12bo$bo28bo4bo$5bo25bo3bo4bo2bo51bo$35b
+o8bo14bo13bo5bo11bo$19bo24b2o38bo$8bo42bo6bo10bo$100b$64bo5bo11bo14bo$
+17bo3bo20bo24bo2bo$28bo4bo12b2o17bo3bo17bo3bobo$11bo3b2o17bo2bo13bo6bo
+2bo8bo6bo11bo$bo12bo42bo27bo5bo$8bo30bo10bo8bo3bo2bo4bo$o57bo16bo2bo$
+18bobo13bo33bo2bo$2b2o3bo8bo51bo9bo18bo$16bo2bo42bobo16bo$16bo43bobo20b
+2o8bo$2bo6bo53bo27b2o$30bo8bo10bo4bobo31bo$3bo11bobo4bo14bo14bo16bo18bo
+2bo$12bo42bo5bo6bo6bo17bo$23bo6bo$14bo4bo22bo15bo23bo5bo$bo43b2o19bo14b
+o7bo$35bobobo28bo21bo$26bo29bo3bo14b2o9bo2bo$20bo7bo51bo17b2o$19bo13bo
+5bo5bo18bo$18bo30bo3bo2bo21bo10bo4bo$3bo22bo10bo42b2o2bo8bo$4bo12bo5bob
+o6bo11bo5b2o24bo$14bo29bo35bo$57bo17bo5bo9b2o5bo$6bo20bo9bo7bo31bo13b2o
+$32bo35bo$15bo11bo22bo7bo6bo6bo23b2o$42bo14bo3bo18b2o3bo4bo$23bo6bo10bo
+22bo6bo6bo3bo$17bobo12bo16bo2bo8bo3bo29bo$2bo14bo15bo2bo45bo8bobo$8bo7b
+o11b2o4bo26bo5bo15bo$12bo3bo13bo3bo36bo$2bo45bo9bo2bo2bo6bo4bo9bo$22bo
+15bo9bo24b3o5bo$5bo12bo27bo$13bo19bo34bobo$52bo11bo9bo14bo2bo$23bo38bo
+14bo$bo4bo26bo39b2o24bo$17bo62bo$33bo25bo7bo18bo$29bo27bo34bo$14bobo8bo
+58bo$7bo26bobo31bo$19bo13bo8bo$2bo11bo28bo26bo4bo22b2o$12bo40bo8bo$12bo
+67bo10bo$18bo13bo57bo$48bo6bo3bo2bo13bo18bo$4bobo11bo68bo9bo$14bo2bo11b
+o14bo7bo3bo33bo6bo$36bo2bo7bo25bo2bo21bo$53b2o3bo15bo$4bo19bo7bo22bo3bo
+$2bo8bo8bo59bo$17b2o12bo21bo11bo11bo12bo$7b2o11bo45bo9bo19bo$82bo7bo7bo
+$10bo35bo34bo4bo$7bo15bobo22bo5bo3bo21bo$27bo16bo9bo6bo13bo6bobo$26bo3b
+o2bo7bo36bo10bo$3bo10bo3bo15bo12bo28bo2b2o4bo!

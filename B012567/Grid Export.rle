@@ -1,0 +1,33 @@
+#N B012567/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B012567/S
+2bo$34bo12bo8bo3bo14bo$8bo27bo6bo2bo16bo2bo7bo5bo13bo$11bo11bo16bo32b2o
+$13bo11bo11bo26bo32bo$19bo12bo25bo$29bo10bo37bo$bo10bo3bo42bo17bo$9bo
+62bo3bo$8bo27bo5bo26bo5bo$12bo2bobo25bo16bo4bo13bo$12bo29bo16bo3bo$12bo
+6bo13bo12bo12bo$10bo23bo64bo$42bo13bo2bo28bo$47bo12bo3bo$5bobo9bo31bo
+22bo23bo$63bo23bo9bo$bo35bo35bo7bo9bo6bo$34bobo12bo22bo5bo$bo12bo25bo
+18bo$28bo6bo18bo10bo$9bo8bo28bo10bo4bo$9bo5bo17bo9b2o18bo2bo$21bo27bo
+23bo6bo$bo23bo39bo4b2o11b2o12bo$15bo10b2o24bo6bobo$16bo14bo17b2o31bo$
+13bo9b2o26bo$10bo6bobo9bo9bo14bo4b2o3bo13b2o16bo$12bo11bo2b2o6bo7bo51bo
+$3bo7bo4bo21bo42bo8bo4bo2bo$4bo5b2o11bo16bo6b2o15bo19bo$7bo2bo2bo33bo
+12bo$2bo13bo17bo5bo8bo4bo3bo20bo$9bo25bo$39bo$bo8bo66bo$12bo31bo30bo10b
+2o$10bo12bo14bo23bo17bo16bo$94bo$o10bo3bo4bo6bo5b2o16b2o10b2o9bo$5bo24b
+o19bo30bo14bo$5bo17bo13bo2bo10bo38bo$11bo$43bo25bo7bo11bo$7bo32bobo54bo
+$2bo8bo7bo2bo5bo5bo18bo4bo6bo12bo13bo2bo$7bo11bo33bo$8bo77bo$34bo2bo29b
+o$23bo37bo5bo5bo8bo$20bobo36bo7bo20bo8bo$22bo27bo10bo3bo$6bo9bo27bo2bo
+25bo5bo2bo$68bo14bo$27bo41bobo8bo3bobo$28bo58bo$27bo33bo17b2o4bo$35b2o
+5bo8bo3b2o13bo$7bo20bobobo4bo4bo6b2o9bo11bo9bobo11bo$bo3bo5bo38bo6bo16b
+o10bo$14bo22bo12bo15bo23bo2bo$12bo12bo12bo12bo45b2o$bo6b2o15bo15bo18bo
+24bobo$60b2o8bo$51bo42bobo$obo18bobobobobo18bo3bo26bo4bo$4bo3bo6bo3bo8b
+o6bo23bo10bo$12bo37bo17bo6bo9bo9bo$27bo47bo16bo$38bo18bo9bo15bob2o$3bo
+50bo18bo$54bo20bo3bo10bo$20bo16bobo4bo43bo8bo$31bo7bo2bo22bobo28b2o$35b
+o6bo8bo13bo14bo$52bo12bo$24bo21bo10bo8bo6bo9bo$19bo11b2obo37bo$17bo74bo
+$14bo35bo4bo35bo$18bo69bo$62bo36bo$40bo58bo$10bo39bo26bo14bo$25bo5bo8bo
+10bo23bo9bo$8bo21bo48bo$6bo16bo10bo7bo27bo13b2o$20b2o11bo32bo$21bo10bo
+21bo40bo$4bo33bo9bo3bo28bo13bo$2bo17bo11bo33bo6bo23bo$44bo22bo10bo4bobo
+$60bo20bo9bo$bo5bo7bo22bo5b2o36bo12bo2bo$3bo3bobo23bo48bobo$13bo23bo60b
+o$32bo3bo13bobo6bo6bo$24bo30bobo9bo26bo!

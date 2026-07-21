@@ -1,0 +1,33 @@
+#N B023567/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B023567/S
+4bo3bo12bo20bo2bo25bo3bo8bo$2bo7bo15bo3bo11bo23bobo30bo$17bo37bo$bo37bo
+8bo3bo14bo12bo11bo$15bo37bo14bo5bo$o19bo2bo5bo40bo3bo7bo$46bobo3bo8bo$
+5bo3bo60bo$16bo2bo15bo3bo19bo32bo$6bo8bo2bo5bo9b2o9bo17bo$52bo38bo2bo$
+4bo17bo8bo3bo29bo24bo$14bo52bobo3bo14bo3bo$5bo10bo19bo9bo32bo15bo$48bo$
+4bo43bo34bo9bo$6bo27bo6bo17bo5bo33bo$15bobo3bo46bo$6bo9bo28bo26bo$5bo
+19bo52b2o13bo$7bo30bo28bo12bo16bo$o2bo16bo24bo5bo11bo2bo10bo$15bo35bo
+14bo27bo$13bobo75bo4bo$60bo6bo5bo18bo$5bo20bo27bo9bo5bo$14bo61bo19bo$
+23bo4b2o3bo12bo6bo14bo23bo3bo$47bo36bo2bo$3bo22bo43bo9b2obo$45bo6bo29bo
+$35bo12bo4bo18bo4bo15bo$10bo18bo39bo9b2o9bo4b2o$17bo14bo30bo7bo26bo$6bo
+3bo48bo8bo12bo$3bo46bo19bo2bo$5bo30bo12bo9bo16bo$100b$2bo45bo3bo3bo23b
+2o3bo$15bo3bo8bo68bo$12bo52bo8bo$14bo2bo20bo18bo$2bo33bo17bo15bo$5bo3b
+2o14bo14bo7bo10bo$8bo17bo33bo12bo3bo15bo$5bo42bo37bo11bo$9bo25bo34bo15b
+o$21bo32bo21bo17b2o$5bo24bo4bo5bo2bo33bo9bo$4bo12bo28bo15bo$13bo31bo$
+28bo5bobo6bo11bobo7bo8bo5bo$31bo11bo10bo15bo3bo12bo$3bo2bo32bo27bo3bo4b
+o5bo$81bo$14bo22bo45bo14bo$7bo4bo5bo34bo24bo$18bo12bo24bo9bo13bo12bo$
+17bo3bo4bobo44b2o6b2obo4bo$10bo4bo2bo4bo6bo49bo$44bo13bo8bo20bo$3bo3b2o
+2bo12bo16bo3bo6bobo2bo21bo$9bo42bo39bo$39bo22bo15bo$4bo5bo20bo10bo13bo
+38bo$3bo21bo45bo16bo$o3bo4bo$3bo13bo40bo$o9bo33bo7bo5bobo22bo$13bo50bo
+11bo15bo$41bo27bo6bo$33bo26bo2bo$2bobo4bo23bo17bo10bo$30bo21bo$48bo8bo
+12bo12bo13bo$bo54bo7bo2bo14bo8bo$bo3bo54bo5bo$10bo7bo7bo15bo20bo5bo7bo
+14bo$37bo2bo28bo25bo$14bo6bo31bo6bo12bo7bo$27bo30bo8bo12bo5bo$23bo3bo
+11bo7bo46bo$13b2o23bo5b2o15bo17bo$3bo5bo8bo27bob3obo16bo7bo5bo8bo$8bo
+22bo13bo5bo25bo$8bo8bo22bo6bo47bo$8bo26bo40bo$3bo53bo2bo$29b2o14bo53bo$
+9bo59bo10bo14bobo$17bo26bo3bo27bo12bo$9bo5bo11bo18bo4bo$18bo23bo40bo$
+70bo23bo$54bo12b2o11b2o9bo$21bo2bo19bo4bo20bo$14bo22bo11bo42bo$37bo27bo
+13bo5bo$3bo2bo26bo5bo56bo$5bo30bo3bo12bo!

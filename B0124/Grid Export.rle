@@ -1,0 +1,33 @@
+#N B0124/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B0124/S
+27bo24bo3bo42bo$10bo12bo29bo30bo5bo$68bo27bo$11bo10bo2bo7bo22bo41bo$4bo
+3bo52bo2bo14bo$9bo5bo9bo4bo9bo23bo30b2obo$17b2o7bo7bo$19bo45bo3bo12bobo
+$34bo23bo3bo12bo7bo$11bo9bo4b2obobo46bo2bo15bo$29bo4bo17bo6bo28bo$19bo
+5bo16bo50bo$72bo14bo$5bo5bo31bo10bo7bo11bo21bo$20bo9bo24b2o$21bo2bo70bo
+bo$29bo7b2o13bo5bo9bo22bo3bo$22bo36bo34bo$11bo21bobo15bo12bobo7bo20bo$
+28bo7bobo45bo$o12b2o19bobo10b2o7bo17bo5bo$33bobo15bo17bo12bo16bo$13bo2b
+o28bo11bo25bo2bo$25bo7bo38bo13bo$52bo15bobo24bo$5bo43bo18bo18bo$3bo11bo
+73bo$36bo14bo12bo$42bo14bo7bo$7bo12b2o54bo$6bo15bobo37bo21bo$o3bo7bo19b
+o25bo40bo$24bo27b2o28bo$22bo22bo46bo5bo$5bo32bo6bo37bo6bo$44bo12bo15b2o
+$38bo25b2o11bo$17bo23bo11bo8bo22bo$20bo27bo$25bo30bo23bo5bo$10bo16bo39b
+obo4b2o3bo6bo7bo$10bo55bo5bo6bo17bo$24bo36bo3b2o2bo12bo$20bo14bo12bo14b
+o4bo14bo$76bo$24bo2b2o6bo45bobo9bo$27bo8bo8bo2bo4bo14bo14bo11bo$32bobo
+2bo61bo$8bo10bo26bo10bo$23bo4bo5bo19bo5bo16bo2bo$11bo10bo55bo$7bo38bo
+11bo8bo18bo$67bo20bo$11bo5bo49bo$5bo2bo8bo32bo2b2o$8bo2bo6bo9bo2bo20b2o
+$19bo34bo5bo37bo$12bo51bo11bo5bo5bo$26bo17bo5b2o4bo31bo$6bo10bo28bo23bo
+$3bo24bo$6bo3bo8bo25bo7bo26bo17bo$15bo25bo27bo18bo$14bo3bo7bo$4bo28bo
+15bo5bo23bo10bo6bo$39bo15b2o4bo17bo12bo$84bo13bo$19bo19bo5bo4bo$o12bo
+43bo18bo$12bo9bo10bo43bo$7bo8bo28bo21bo$10bobo13bo5bo22bo33b2o4bo$3bo
+20bo6bo55b2o10bo$19bo11bo7bo$2bo39bo2bo6bo15bo17bo2bo3bo$2b2o8bo53bo2bo
+10bo9bobo4bo$14bo30bo5bo26bo8bo$9bo47bo10bo19bo5bo$7bo34bo21bo31bo$25bo
+bo16bo9bo29bo9bo$2bo6bo16bo65bo$9bo7bo13bo57bo2bo$55bo6bo9bo12bo3bo$40b
+o10bo11bo16bo$10bo40bobo24bo10bo$5bo38bo11bobo31bo$10bo21bo10bo$19bo15b
+o$32bo19b3o8bo10bobo13b2o$10bo15bo28bo26bo$10bo10bobo18bo24b2o5bo3bo$
+16bobo36bo26bo12bo$o35bo12bo10bo5bo30bo$18bo8bo10bo3bo12bo9bo4bo$11bobo
+10bo5bo5bo25bo2bo$33bo44bo11bo5bo$13bo5bo15bo5bo29bo6bo20bo$8bo11bo3bo
+3b2o42bo14bo$57bo15bo$6bo24bo4bo4bo11bo8bo9bo!

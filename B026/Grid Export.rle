@@ -1,0 +1,33 @@
+#N B026/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B026/S
+55bo2bobo13bo3bobo2bo$51bo20bo13bo7bo$8bo5bo65bobo15bo$24bo10bo53bo8bo$
+8bo2bo51bo23bo$7bo3bo19bobo5bo$15bo13bo$6bo2bo7bo5bo19bo2bo21bo19bo$22b
+o17bo7bo11bo16bo3bo$13bob2o4bo6bo31bo14bo5bo10bo3bo$6bo27bo57bo$8bo11bo
+46bo5bo8bo$4bo3bo19bobo9b2o3b2o33bo$19bo10bo3bo8bo10bo2bo8bo15bo4bo10bo
+$10bo42bobo18bo$bo17bo2bo7bobo6bo$48bo41bo$16bo21bo12bo6bo12bo12bo$35bo
+36bo14bo$2o31bo$17bo19bo29bo6bo$3b2o5bo4bo2bo37bo30bo$13bo68bo4bo$15b2o
+6bo26bo21bo5b2o9bo$o16bo33bo6bo$3bo12bo13bo7bo11bo8bo5bo5bo6bo13bo$20bo
+14bo25bo35bo$13b2o5bo25bo42bo9bo$5bo3bo31bo5bo33bo4bo11bo$9bo26bo18bo$
+8b2obo26bo40bo$27bobo56bo$19bo5bo34bo3bo$12bo2bobo4bo39bo$23bo23bo10bo
+10b2obo17bo$18b2o8bo32bo19bo12bo3bo$15bo17bo7bo6bo32bo16bo$19bo40bo4bo
+20bo$20bo2bo5bo13bo12bo24bo13bo$32bo44bo$43bo24bobo$5bo22bo5bo23bo9bo
+12bo$5bo18bo5bo6bo6bo6bo$33bo16bo$30bo7bo29bo20bo$29bo7bo58bo$2o2bo41bo
+15bo16bo2bo8bo$5bo7bo39bo39b2o$31bo21bo17bo13bo$88b2o$obo9b2o20bobo5bo
+2bo3bo16bo22bo6bo$43bo34bo$8bo36b2o20bo18bo8bo$3bo23bo7bo25bobo11bo$4bo
+7bo31bo20bo13bo13bo$59bo4bo5bo9bo$3bo50bo24bo$48bo4bo21bo7bo$25bo15bo
+27bo$17bo11bo21bo36bo$bo38bo30bo$bo25bo$21bo3bo17bo29b2o$9bo2bo36bo13b
+2o11bo12bo9bo$36bo6bo12bo$2bo27b2o7bo16bo8bo$100b$2bobo18bo19bo18bo30bo
+5bo$12bo11bo13bo52bo$13bo2bo9bo28bo16bo11bo$8bo9bo12bo17bo30bo$29bo54bo
+$29bo6bo53bobo$2bo16bo22bo8bo22bo$43bo34bo11bo$10bo8bo7bo38bo7bo14bo$4b
+o5bo4bo4bo3bo6bo14bo7bo18bo$2b2o3b2o28bo6bo19bo26bo2bo2bo$45bo$34bo6bo
+6bo4bo33bo$19bo3bo4bo14bo44bo2bo$28bo36b2o6bo21bo$bo24bobo44bo3b2o$5bo
+6bo43bo2bo37bo$23bo16bo2bo13bo2bo4bo$27bo8bo33bo$bo37bo26bo3bo2bo$43bo
+15bo15bo$44bo$6bo2bo7bo15bo6bo26bo17bo$14b2o13bo36bobo4bo16b2o$4bo75bo$
+18bo11bo5bo15bo12bo19b2o$bo3bo8bobo28bo30bo11bo3bo$26bo7bo5bo17bo$5bo4b
+o4bobo7bo29bo5bo9bo18bo$9bo17bo8bo18bo13bo9bo4bobobo$15bobo26bo49b2o2bo
+$14bo15bo33bo20bo6bo$38bo13bo16bo4bo!

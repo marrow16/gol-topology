@@ -1,0 +1,35 @@
+#N B012356/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B012356/S
+3bo11bo5bo17bo11bo21bo$6bo3bo12bo17bo6bo3bo29bo13b2o$30bo40bo4bo2bo$3bo
+27bo17bo2bo10bo18bo12bo$10bo72bo7bo$37bo23bo9bo5bo$bo10bo7bo9bo3bo18bo
+19bo16bobo$30bo4bo43bo7bo$o16bo43bo3bo6bo18bo6b2o$7bo13b2o20bo12bo$44bo
+10bo16bo7bo2bo$b2o15bo2bo4bo28bo$38bo25bo14bo12bo$21bobo19b2obo8bo5bo5b
+o$8bo55bo24bo$16bo36bo45bo$6bo3bobo12b2o8bo27bo31bo$41bo17bo20bo$34b2o
+5bo12bo4bo29bobo$2bo21bo31bo3bo19bo2bo$8bo9bo6bo23bo26bo4bo15bo$7bo42bo
+13bo13bo8bo$14bo14bo13bo36bo$7bo6bo75bo2bo$60bo15bo$13bo15bo39bo9bo2bo
+4bobo$89bo$4bo2bo21bo40bo8bo11bo$12bo84bo$29bo2bo14bo28bo$9bo2bo79bo$
+32b2o12bo35bobo13bo$3bo5bo34bo41bo$6bo6bo10bo50b2o13bo3bo$4bo27bo44bo$
+15bobo39bo13bo$o30bo7bo3bo15bo17bo9bo$21bo4bo4bo2bo6bobo4bo2bo46bo$20bo
+44bo13bo4bo$54bo3bo$9bo8bo25b2o25bo2bo13bo$3bo14bo6bo13bo28bo18bo2bo$4b
+o13bo2bo7bo34bo4bo$8bobo3bo12bo31bo31bo4bo2bo$10bo28b2o10bo8bo10bobo9bo
+12bo$5bo51bo15bo$12bo45bo23bo10bo$3bo6bo26bo4bo2bo7bo14b2o11bo14bo$bo5b
+o25bo46bo8bo$25bo16bo5bo3bo10bo2bobo6bo$bo3bobo7bo33bo17b2o23bo$37bo27b
+o31bo$20bo10bo36bo7bo$15bo6bo4bo35bo8bobo$bo4bo12bo3bo11bo11bo17bo9bo8b
+o$10bo4bo11bo5bo2bo10bobo20bo$8bo5bo7bo4bo23bo12bo25bo3bo$32b2o4bo8bo
+45bo5bo$9bo12bo15bo9bo9bo4bo6bo$9bo34bo37bo$10bo26bo52bo$33bo28bo14bo6b
+obo10bo$10bo2bo16bo38bobo4bo5bo9bo4bo$o18bo30bo2bo5bo11bobo$39bo21bo7bo
+16bo$3bo23bo27bo9bo$7bo12bo29b2o7bo8bo16bo$19bo10bo5bo54bo$28bo3bo4bo5b
+obo51bo$2bo7bo2bobo30bo14bo13bo4bo$56bo19bo19bo$bo42bo30bo3bo$12bo32bo
+14bo2bo5bobo12bo$16bo10bo$8bo10bo7bo37bo11bo5bo$bo32bo10bo2b2o3bo11bo8b
+o$9bo8bo7bo3bo8bo$26bo4bo29bo5bo19bo$12bo11bo18bo4bo4bo11bo9bo2bo7bo$
+40bobobo23bo11bo$56bobo18bo7bo$25bobo3bo22bo25bo$45bo12bo28bo3bo$24bobo
+18bo29bo$20bo19bo23bo33bo$48bo18bo24bo$14bo8bobo19bo$8bo15b2o4bo15bo28b
+o$10bo9bo7bo12bo11bo8bo17bo8bo2bo$20bo54bo4bo8bobo7bo$34bo36bo18bo$25bo
+3b2o6bo39bo4bo3bo11bo$4bo3bo2bo27bo2bobo12bo8bo5bo6b2o9bo2bo$22bo5bo48b
+o11bo$4bo2bo25bo7bo30bo$20bo49bo$2bo3b2o26bobo30bo30bo$23bo3bo26bo3bo4b
+o$4bo62bobo19bo$11bo2bo25bo23bo4bo!

@@ -1,0 +1,33 @@
+#N B23/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B23/S
+11b2o3bo49bo$32bo14bo4bo41bo$7bo19bo14bobo$16bo4bo10bo33bo$8bo15bo19bo
+5bo10bo28bobo$31bo4bo19bo13bo8bo$12bo10bo18bo20bo5bo$bo45bo23bo10bo12bo
+$7bo11bo74bo$12bo22bo2bo13bo10bo21bo8bo$8b2o39bo19bo11bo16bo$10bo4bo16b
+o26bo25bo$18bo24bo24bo7bo$20bo14bo13bo19bo3bo16bo$2bo12bo18bo25b2o5bo
+14bo$23bo9bo20bo30bo$44bo$26bo20bobo25bo11bo5bo$6bo19b2o11bo6bo17bo8bo
+3bo$6bobo3bo22bobo3bo2bo32bo3bo12bo3bo$52bo44bo$31bo37bo9bo14bo$4bobo3b
+o36bo11bo14bo14bo$39bo25bo21bo$10bo9bo10bo6bo20bo$2bobo5bobo4bo11bo5bo
+6bo53bo$31bo2bobo23bo24bo5bo$4bo16bo3b2o10bo20bo14bo10bo9bo$6bo11bo20bo
+6bo10bo37bo2b2o$9bo7bo2bo9bo2bo22bo3bo14bo9bo8bo$bo3bo15bo54bo10bo$8bo
+4bo5bo59b2o2bo$23bo3bo21bo25bo14bo$5bo16bo3bo14bo3bo2bob2o$6bo2bo5bo20b
+o16bo4bobo19bo17bo$3bo20bo16bo21bo12bo10bo$6bo3bo4bob2o3bo13bo4bo6bo3bo
+19bo21bo$54bo25bobo$42bo28bo21bo$24bo14bo19bo8bo7bo$29bo16bo30bo21bo$9b
+o16bo$19bo18bo50bo$o27bo4bo9bo$10bo16bo31bobo$12bo27bo$8bo47bo6bobo13bo
+12bo$38bo7bo$100b$15bo10bo4bobo62bo$10bo19bo59bo$63bo26bo$9bo9bo25bo3bo
+2bo13bo20bo2bobo$32bo35bo$30bo4bo10bo13bo8bo$22bo69bobo$33bo5bo24bo34bo
+$33bo8bo2bobo7bo16bo$36bo$14b2o62bobo17bo$27bo10bo13bo28bo$5bo9bo10bobo
+12bo3bo4bo2bo27bo7bo$58bobo29bo$5b2o7bo39bo32bo$3bo83bo$5bo32bo28bo3bo
+7bo$17bo10bo2bo45bo3bo$4bo60bo3bo23bo3bo$28bo17bo33bo15bo$2bo38b2obo18b
+o11bo2bo$12bo17bo44bo3bo$bo26bo3bo16bobo6bo4b2o24bo$o5bo44bo19b2o2bo$
+12bo22bo7bo15bo$43bo12bo3bo$4bo8bo2bo43bo12bo4bo$39bo$69bo14bo14bo$22bo
+25bo37bo$8b2o15bobo16bo7bo20bo3bo5bobo10bo$19bobo8bo16bo10bobo$19bo19bo
+34bo$19bo40bo2bo16bo$66b2o7bo$2bo19bo3bo23bo15bo13bo8bo5bo$9bo3bo9bo50b
+o23bo$34bobobo10bobo17bo16bo2bobo$37bo5bo40b2o$3bo21bo10bo30bo3bo4bo6bo
+$36bo13bo$4bo30b2o20bo21bo$75bo$48bo39bo$53bo24bo$12bo47bo8bo5bo$5b2o
+10bobo3bo11bo21bo33bo$18bo12bo2bo10bo18bo18bo$23bo2bo14bo30bo7bo8bobo$
+5bo3bo10bo7bo28bo2bo12bo17bo$19bo!

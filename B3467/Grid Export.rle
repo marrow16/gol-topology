@@ -1,0 +1,33 @@
+#N B3467/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B3467/S
+6bo7bo4bo28bo27bo6bo8bo$18bo35bo5bo17bo$14bo14bo14bo13bo6bobo4bo21b2o$
+20bobo3bo7bo10bo27bo3bo18bobo$27bo17bo45bo$5bo54bo28bo$23bo4bo28bo13bo
+10bo$6bo6bo18bo23bo15bo20bo5bo$10bo7bo8bo9bo32bo10bo9bo$6bo6bo50bo34bo$
+10bobo26bo14bo15bo2bo$37bo4bo4bo11bo7bo$31bo39bo4bo$3bo37bo32bo5bo$38bo
+19bo22bo6bo$15bo16bo26bo2bo8bo16bo$10bo8bo9bo7bo33bo6bo20bo$10bo28bo14b
+o16bo6bo$bo63bo6bo10b2o2bo$59bo39bo$63bo$17bo21bo9bo20bobo$2bo27b2o22bo
+5bo32bo2bo$7bo8bo51bo9bo2bo$25bo10b2o8bo29bo$5bo5bo8bo9bo20bo25bo$7bo9b
+o12bo13bo26bo$6bo23bo7bo32bo12bo2bo$18bo13bo8bo17bo21bo8bo2bo$24bo18bo
+8bo$3bo13bo25b2o26bo25bo$16bo36bo4bo15b2o3bo7bo5bo4bo$14bo51bo17bo8bobo
+3bo$2bo14bo17bo9bo14bo10bo3bo$12bo20bo10bo5bo$35bo42bo18bo$4bo3bo48bo
+15bo20bo3bo$6bo5bo39bo12bo24bo$22bo7bo32bobo20bo8bo$bo7bobo2bo33bo8bo
+10bo6bo$16bo13bo16bo3bobo3bo9bo2bo19bo$20bo8b2o39bo10bo$22bo19bobo25bo
+23bo$bo72bo$29bo25bo11bo29bo$o18bo21bo18bo$8bo17bo4bo19bo14bo7bo16bo$bo
+12bo$9bo11bo6bo8bo5bo12bo5bo14bo$16bo40bo10bo3bo16bo9bo$11bo6bo19b2o14b
+o11bo21bo$30bo68bo$40bo5bo2bo45bo$70bo$48bo34bo$9bo9bo12bo9bo19bo4bo26b
+o$3bo80bo10bo2bo$25bo$3bo16bo5bo12bo28bo28b2o$3bo15bo52bo2bo10bo5bo$5bo
+6bo42bo34bo$bo10bo12bo36bo5bobo$12bobo69bo8bo$15bo4bo53bo$18bo2b2o18bo
+12bo40bo$3bo21bo9bo14bo6bo34bo$31bo7bo30bo7bo11bo$4bo4bo5bo13bo62bo$61b
+o2bo7bo14b2o$85bo13bo$5bo14bo31bo15b2o15bo5bo$o17bo21bobo5bo50bo$10bo
+22bo$31bo$18bo11bo30bo22bo12bo$3bo27bo$9bo13bo74bo$5bo3bo22bo46b2o$4bo
+63b2o$4bo9bo22bo$15b2o6bo15bo14bo9bobo$3bobo5bo5bo7b2o9bo19bo22bo$4bo
+10bobo13bo30bo9bo13bo$12bo13bo33bo31bo$100b$3bo24bo17bo$6bo3bo3bo22bobo
+16bobo14bo$38bo$36bo36bo5bo2bo4bo$3b2o7bobo3bo14bo8bo12bo6bo25bo3bo$23b
+o30bo9bo26bo$15bo17bobo14bo19bo$6bo7b2o44bo17bo$16bo12bo7bo35bo7bo12bo$
+9bo19bo24bo19bo15bo$5bo6bo6bo13bo8bo19bo3bo$9bo12bo13bo21bo23bo$24bo22b
+o25bo15bo6bo$12bo49bo$19bo17bobo39bo!

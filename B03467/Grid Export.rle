@@ -1,0 +1,33 @@
+#N B03467/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B03467/S
+5bo12bo42bo$7bo15bo14bo7bo2bo44bo$2o12bo6bo7bo4bo10bo6bo10bo$32bo29bo2b
+obo31bo$3bo2bo15bo58bo$5bo51bo12bo16bo$18bo24bo2bo21bo$o12bo20bo51bo4bo
+$10bo2bo7bo6bo29bo36bo$35bo3bo2bo3bo3bo20bo13bo8bo$4bo3bob2o28bo39bo13b
+2o$o17bo7bo22bo37bo2bo$19bo4bobo8bo4bo4bo$bo46bo8bo12bo20bo$2o8bo11bo5b
+o58bo$15bo2bo$17bo17bo27bo18bo$30bo35bo18bo$31bo60bo4bo$29bo25bo3bo2bo
+13bo5bo5bo3bo$19bo8bo14bo29bobo19bo$8bo39bo6bobo7bo$14bo28bo14bo25bo5bo
+$5b2o3bo6bo11bo39bo$3bo5bo15bo12bo20bo29bo6bo$13bo10bo31bo34bo6bo$6bo
+12bo15bo45bo15bobo$10bo8bo7bo5bo33bo11bo$14bo13bo8bo6bo$43bo19bo2bo20bo
+$6bo2bo11bo58bo$46bo$12bo11bo19bo5bo7bo3bo36bo$7bo8bo23bobo21bo14bo16bo
+$82bo10bo$32bo32bo12bo10bo2bo4bo$13bo3bo28b2o10bo4bo26bo$bo12b2o31bo3bo
+16bo$23bo13bo4bo7bobo7bo35bo2bo$17bo12bo5b2o19bo15bo19bo4bo$45bo11bo2bo
+8bo25bo$22bo2b2o$2bo5bo2bo8bo8bo27bo14bo13bo$3bo14bo53bo$10bo5bo46bo23b
+o7bo$3bo28bo14bo19bo2b2o10bo10bo$o2bo49bo15bo11bo9bo$8bo4bo41bo26bo16bo
+$10bo4bo8bo6bo33bo13bo15bo3bo$45bo41bo$42b2obo9bo6bo11bo2bo9bo3bo$5bo8b
+o20bo24bo4bo29bo$10bo6bo10bo11bo11bo16bo3bo4bo20bo$10bobo49bo32bo$46bo
+8bo29bo6bo2bo$9bo12bo12bo10bo$21bo23bo$2bo6bo54bo25bo4bo$22bo27bo10bo
+11bobo$40bo20bo20bo$bo28b2o3bo19bo11bo12bo$8bo32bobo4bo5bo$13bo11bo29bo
+6bo$56bo20b2o$8bo37bo27bo$4bo44bo$obo22bo4bo50bo13bo$23bo17b2o10bo22bo
+16bo$12bo13bo28bo10bo$7bo6bo45bo21bo$9bo17bo21bo$48bo21bobo22bo$34bo6bo
+10bo11bo9bo$46bo26bo4bo8bo4bo$33bo$88bo2bo$6bo7bo19bo50bo$17bo22bo11bo
+22bo6bo$6bo23bo6bo7bo17bo16bo4bo4bo$o84bo8bo$10bo42bo6bo2bo18bo12bo$3bo
+50bo17bo16bo$30bobo3bo18bo4bo17bo20bo$29bo3bo11bo25bo11bo12bo2bo$32bo
+23bo10bo$9bo31bo22bo17bo7bo$bobo11bo38bo26bo$20bo26bo15bo13bo18bo$11bo
+9bo25bo34bo5bo$51bo14bo28bo$3bo58bo6bo3bo$ob2o5bo6bo9bo26bo20bo23bo$12b
+3obo8bo31bo14bo12bo$54bo4bo4bo26bo$88bo$29bo45bo$22bobo$10bo21bo9bo6bo
+22bo$38bo8bo12bo$bo39bo8bo35bo!
