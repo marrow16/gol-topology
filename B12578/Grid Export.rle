@@ -1,0 +1,33 @@
+#N ./gol-topology/B12578/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B12578/S
+7bo19bo27bo26bo7bo2bo4bo$60bo15bo15bo4bo$7bo7bo68bo7bobo$8bo25bo$5bo51b
+o15bobo$10bo2bo3bo21bo4bo5bo7bobo10bo$bo45bo31bo4bo$13bo5bobo11bo7bo14b
+o5bo2bo7bo4bo4bo$28bo15bo10bo14bo5bo$26bo8bo15bo$41bo30b2o21bobo$6bo10b
+o15bo4bo$8bo8bo5bo25b2o11bo6bo26bo$18bo65bo$2bo11bo17bo22bo18bo6bo$31bo
+27bo3bo23bo2bo$15bo10bo10bo13bo47bo$33bo11bo8bo33bo6bo$25bo10bo32bo11bo
+15bo$8bo12bo14bo4bo18bo16bo14bo$15bo60bo$82bo2bo8bo$4bo45bo3bo9bo31bo$
+9bo14bo10bo15bo29bobo15bo$o87bo$8bo4bo44bo$19bo8bo20bo$24bo14bo23bo13bo
+9bo$18bo9bo20bo19bo6bo11bo$5bo32bo$15bo64bo18bo$2bo5bo12bo3b2o41bo8bo
+12bo$3bo21bo12bo29bo9bo17bo$38bobo34bo$67bo4bo$39bo28bo13bo5bo$40bo5bo
+51bo$3bo7bo13b2o48bo21bo$23bo70bo$7bo2bo26bo8bo$69bo8bo14bo$2bo48bo4bo
+13bo8bobo$26bo15bobo27bo5bo9bobo$27bo42bo$4bo11bo6bo3bo37bo$9bo3bo22bo
+15bo13bo5b2o9bo$6bo15bobobo11bo11bo29bo2bo13bobo$o3bo4bobo3bo12bo9bo3bo
+13bo28bo$8bo31bo17bo18b3o9bo5bo$11bo12bo26bo9bo$8bobo19bo21b3o9bo16bo
+14bo$7bo6bo6b2o10bo24bo12bo9bo9bo$46bo$22bo17bo$19bo13b2o5bo23bo$11bo5b
+o11bo22bo23bo5bo15bo$24bo11bo5bo19bo3bo$19bo29bo14bo16bo13bo$o51bo39bo$
+14bo37bo30bo8bo$b2o9bo41bo28bo8bo5bo$19bobo24bo11bo13bo15bo$bo6bo25bo$
+27bo5bo16bo7bo11b2o6bo$92bo$13bo18bo5bo15bo7bo11bo14bo$29bo17bo23bo23bo
+$2bo60bo13bo4bo6bo2bo3bo$8bo3bo22bo5bo12bo15bo8bo16bo$8bo14b2o22bo9bo
+29bo6bo$26bo15bo2bo$4bobo6bo6bo19bobo19bo6b2o10bo5bo$31bo20bo13bo$36bo
+10bo$7bo5bo12bo19bo2bo4bo15bo$24bo17bo9bo25bo$58bo$obo21bo2bo35bo24bo$
+25bo25bo12bo2bo12bo16bo$36bo12bo35bo11bo$18bo9bo2bo13bo7bo2bo19bo9bo$6b
+o36bo4bo7bo26bo$17bo30bo7bo13bo16bo$75bo13bo$44bo9bo39bo$22bo23b2o15bo
+6bo14b2o7bo$6b2o53bo3bo$23bo61bo$bo5bo47bo8bo19bo13bo$13bo38bo28bo14bo$
+14bobo17bo23bo5bo27bo5bo$12bo2bob2o29bobo20bo$9bo72bo$19bo15bo18b2o$49b
+o13bo35bo$bo18bo14bo$14bo2bo31bo22bo$10bo19bo6bo56bo2bo$o2bo18bo30bo28b
+obo$30bo60bo3bo!
