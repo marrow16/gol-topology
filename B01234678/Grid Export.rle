@@ -1,0 +1,33 @@
+#N ./gol-topology/B01234678/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B01234678/S
+37bo5bo10bo13bo20bo8bo$22bo56bo$14bo67bo$2bo40bo8bo38bo$14bo75bo3bo$46b
+o5bo4bo6bo8bo7bo16bo$16bo25bo29bo8bo$9bo69bo$27bo27bo22bo$8bo49bo5bo8bo
+25bo$5bo2bo13bo8bo20bo10bo8bo11bo$28bo21bo16bo4bo3bo9bo$40b2o11bo6bo8bo
+12bo$8bo9bo58bo5bo9bo$42bo25bobo$bo9bo29bobo30bo$3bo43bo14bo14bobobo3bo
+8bo$28bo20bo13b2o9bo17bo$8bo23bo2bo34bo19bo6bo$19bo21bo2bo46bo$o$bo6bo
+8bo35bo$19bo3b2o8bo13bo15bo10bo$4bo41bo3bo8bo26bo$6bo3bo3b2o2b2o35bo35b
+o2bob2o$3bo5bo22bo4bo19bo34bo$51bo42bo2bobo$7bo8bo4bo4bo12bo46bo$36bo
+20bo21bo12bo2bobo$41bo28bo6bo14bo$15bo30bobo15bo8bo10bo$15bo25bo19bo$bo
+60bo15bo$bo3bo20bo19bo45bo6bo$6bo16bo18bo18bo8bo21bo3bo$2bo16bo61bobo3b
+o$3bo36bo32bo2bo$o21bo10bo15bo3bo30bo2bo$o12bobo16b2o16bo9bo17bo8bo5bo$
+o9bo8bo25bo32bo$bo25bo31bo10bo25b2o$2bo39bo53bo$9bo15bo15bo6b2o16bo$3bo
+15bo53bo11bo$2bo28bo6bo2bo40bo5bo2bo$81bo14bo$9bo7bo4bo11bo8bo4bo13bo
+20bo$4bobobo83bo$12b2o6bo16bo9bo20bo25bo4bo$5bo23bo24bo17bo14bo3bo$10bo
+5b2o2bo7bo13bo8bo13bo5bo10bo12bo$3bo13bo60bo$10bo5bo18bo54bo$o36bobo24b
+o3bo26bo$6bo56bo7bo7bo5bo$o60bo31bo$2bo8bo26bo18bo39bo$2bo22bo6bo29bo
+35bo$27bo40bo8bo4bo$53bo10bo$3bo14bo5bo35bo2bo15bo17bo$9bo21bo53bo$11bo
+bo65bo4bo$21bo34bo7bo26bo$o33bo10bo9bo$31bob2o14bo4bo$30bo11bo21bo$20bo
+31bo42bo$o53bo13bo$30bo2bo7bo18bo$37bobo14bo24bo$o61bobo21bo$4bo70bo6bo
+bo$26bo2bo24bo37bo$6bo3bo40bo20bo25bo$3bo3bo6bo2bo3b2obo50bo17bo$9b2o$
+10bo37bo3bo15bo8bo13bo$5bo39bo10bo15bo12bo12bo$13bo15b2o14bo20bobo24bo
+3bo$14bo2bo17bo18bobo17bo21bo$17bo30bo27bo$38bo6bo3bo2bo4b2o3bo8b2obo
+10bo$23bo13bo24bo11bo22b2o$19bo19bo15bo34bo$55bo8bo$52bo11bo20bo11bo$
+29bo$17bo69bo3bo$15b2o39b2o$12bo4bo44bo18b2o9bo$5bo38bo3bo14bo3bo9bo$
+19bobo13bo16bo$14bo15bo22bo12bo9bo2bo17bo$25bo30bo32bo$11bo11bo18bo2bo
+23bo20bo3bo$2bo17bo43bo9bo$3bo5bo25b2o5bo3bobobo19bo27bo$6bo11bo5bo28bo
+18bo22bo$37bo6bo42bo10bo!

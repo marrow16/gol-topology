@@ -1,0 +1,33 @@
+#N ./gol-topology/B34678/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B34678/S
+6bo26bo20bo11bo26bobo$18bo7b2obo23bo10bo2bo12bo8bo2bo$20bo4bo15b3o2bo2b
+o8bo6bo$16bo2bo20bo16bo25bobo10bobo$10bo21bo30bo5bo29bo$6bo8bobo61bo3bo
+$57bo15bo3bo$45bo$3bo11bo4bo$7bo7bo56bo8bo$b2o9bo25bo22bo6bo7bo7bo9bo$
+18b2o13bo10bo13bo$32bo17bo7bo32bo$28bo7bo6b2o4bo6bo4bo21bo$4bo15bo39bo
+35bo$9bo6bo21bo56bo$28bo2bobo30bo11bo7bo11bo$29bo7bo61bo$100b$2bo13bo
+19bo13bo7bo10bo21bo$13bo31bo14bo9bo$43bo5bo34bo$4bo23bo42bo4bo20bo$33bo
+9bo12b2o25bo15bo$33bo6bo3bo5bo17bo13bo2bo$5bobo53bo12bo11bo6bo5bo$9b2o
+6bo16bo3b3o7bo$6bo44bo19bo3bo5bo9bo$17bo7bo56b2o3bo$4bo82bo2bo$12bo8bo
+3bo10bo4bo4bo8bo12bo12bo15bo$4bo11bo20bo6bo11bo$33bo37bo13bo3bo$3bo11bo
+23bo3bo36bo$4bo9bo39bo6bo10bo15bo$7bo37bo41bob2o$37bo14b2o38b2o$15bo3bo
+8bo48bo8bo7bo$4bo43bo3bo25bo$8bo41bo39bo$55bo7bo6bo6bo10bo10bo$bo13bo6b
+obo39bo8bo20bo$7bo35bo8bo2bo12b2o13bo$16bo13bo20bo18bo5bo11bo$30bo3bo8b
+o37b2o11bo$22bo9bo2bo46bo4bo8bo$24bo40bo2b2o8b2o10bo7bo$13bo16bo54bo$8b
+o17bo5bo30bo23bo$26bo6bo30bo$22bo6bo3bo17b2o15bo$25bo2bo2bo8bo53bo$27bo
+3bo12bo10bo13bo22bo$22bo16bo27bo18bo$4bo90bo$12bo30bo$14bo34bo9bo4bo6bo
+4bo17bo$8bo39bobo6bo2bo$58bo12bo18bo8bo$4bo41bo16bo24bo$16bo33bo8bobo3b
+o16bo11bo$9bo47bo4bo14bo5bo$8bo13bob2o4bo14bo12bo$bo10bo11bo15bo30bo17b
+o4bo$bo2bobo55bo6bo25bo3bo$2bo19bo16bo11bo$20bo22bo32bo$21bo2bobo20bo
+20bo17bo$9bo20bo2bo38bo$bo10bo19bo2bo26bo32bo$o30bobo11bo43bo4bo$o3bo6b
+2o22bo$12bo4bo22bo53bo$22bo17bo36bo$5bo31b2o10bo5bo27bo$29bo17bobo10bob
+o11bo12bo$72bo3bo18bo$8bo23bo4bo3bo7bo6bo8bo8bo24bo$22bo27bo22bo$13bo3b
+o19bo$45bo38bo$27bo6bo4bo6bo51bo$3bo2bo25bo40bo4bo$17bo73bo$3bo6bo17bo
+16bo33bo5bobo5bo$36bo23bo$bo11bo11bo$12bo26bo23bo$11bo26bobo18bo5bo6bo
+17bo8bo$15bo59bobo$13bo24bo52bo$3bob2o16b2o8bo14bo9bo31bo$11bo2bo52bo
+16bo6bo5bo$38bo13bo$5bo75bo10bo$8bo5bo38bo9bo17bo$bo5bo10bo35bo3bo$9bo
+21bo$35bo55b2o$36bo12bo12bo!

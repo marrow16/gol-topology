@@ -1,0 +1,33 @@
+#N ./gol-topology/B4678/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B4678/S
+39bo10bo9bo$3bo18bo17bo32bo22bo$11bo4bo21bo$28bo$30bo28bo19bo19bo$52bo
+25bo17b2o$45bo$59bo$11bo7bobo42bo2bo6b2o2bo18bo$o9bo6bo6bo17bo11bo10bob
+obo$21bo29bo47bo$bo20bo27bo3bo9b2o22bo$2bo65bo19bo$15bo7bo23b2o10bo11bo
+18bo3bo$4bo15bo16bo9bo18bo4bo10bo16bo$8bo10bo4bo14bo53bo5bo$23bo31b2o
+37bobo$4bo35bo22bo25bo$24bo3b2o4bo43bo2bo7bo$2bo29bo$60bo9bo18bo$82bo
+12bo$4bo10bo74bo$3bo3bo7bo40bo$8bo11bo7bobo16bo9bo16bo$60bo8bo3bo11bobo
+3bo$43bo46bo$4bo5bo21bo20bo23bo9bo10bo$9bo25bo30bo2bo14bo$15bo13bo8bo8b
+o17bo4bo19bo$22b2o44bo3bo3bo2bo11bo$16bo3bo15bobo4bo28bo8bo$o5bo23bo23b
+o3bo18bo4bo$23bo11bo14bo13bo$5bo22bo19bo4bo36bo$bo3bo32bobo11bo25b2obo
+13bo$50b2o25bo$24bo11bo56bo4b2o$35bo53bo$37bo16bo19bo14bo$11bo10bo2bobo
+44bo20bo$6bobo13bob2o28bo20bo$28bo21bo7bo25bo14bo$17bo42bo$o20bo52bo10b
+o$15bo4bo23bobo9bo10bo2bo$4bo37bobo3bo6bo21bo$14bo46bo$bo46bo20bo5bo3bo
+$55bo2bo12bo5bo16bo2bo$35bo5bo16b2o7bo2bo15bo$67bo6bo13bo$3bo41bo22bo
+25bo$3bo7bo6bo3bo11bo2bo9bo5bo21bo10bobo$4bo5bo65bo$27bo19bo15bo20bo$
+97bo$73bo18bo$6bo29bo6bo3bo34bo$20bo30bobo30bo$15bo28bo21bobo4bo7bo$27b
+o35bo23bo$28bo9bo$bo20bo31bo12bobo2bo2bo$13bo33bob2o11bo7b2o15bo7bo$18b
+o6bo6bo29bo14bo$21bo12bo26bo4bo12bo$40bo4bo7bo37bo$54bo18bo3bo7bo$18bob
+o23bo17bo15bo15bo$33bo57bo7bo$o15bo7bo10bo12bo15bo6bo17bo$28bo2bo28bo
+14bo8bo$5bo85bo7bo$27bo7bo42bo8bo$bobo27bo7bo5bo21bo29bo$13bo17bo26bo$
+13bo49bo17bo17bo$6bo14bo14bo4bo14bo7bo$5bo8bo17bo42bo2bo8bo$13bo7bobo
+65bo$32bo11bo43bo3bo$21bo10bo9bo4bo7bo7bo4bo3bo$6bo9bo3bo20bo16bo20bo9b
+o8bo$bo42bobo26b2o$25bo5b2o$8bobo22bo13bo9bo16bo9bo$5bo39bo13bo9bobo21b
+o4bo$4bo13bo60bo7bo$33bo15bo11bo$27bo44b2o11bo9bo$13bo39bo3bo4bo2bo4bo
+11bo6bo$12bo27bo11b2o$3bo4bo5bo19bo37bo$13bo11bo5bo8bo43bo10bo$4bo2bo5b
+o36bo13b2o16bo$31bo9bo25bo6b3o18bo$20bo17bo12bobo23bo17bo$9bo3bo5bo48bo
+9bo16bo$31bo29bo!
