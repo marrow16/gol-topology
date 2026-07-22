@@ -1,0 +1,33 @@
+#N ./gol-topology/B35678/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B35678/S
+o28bo51bo17bo$25bo23bo2bo37bo$o30bo22bo12bo7bo20bo$2o3b2o6bo24bo7bo$o
+13bobo18bo17bo27bo3bo$10bo29bobo48bo$45bo12bo9bo11bo$4bo41bo6bo$4bo9b2o
+8bo42bo9bo4bo$5bo4bo3bo27bo22bo14bo$o33bo2bo11bo17bo$8bo3b2o38bo39bo$
+28bo38bo18bo8bo$18bo42bo18bo$26bo2bo16bo4bo10bo18bo14bo$15bo42bo4bo3bo
+16bo9bo$7bo5bobo4bo41bo$41bo$7bo12bo56bo5bo11bo$27bo32bo22bobo$10bo$26b
+o21bo17bo7bo7bo13bo$25b2o11bo8bo8bobo$19bobo18bo6bo14bo4bo2bo15bo3b2o$b
+o20bo10bo34bo$27bo4bo29bo$15bo11bo25bo12bo$12bo45bo17bo3bo$23bo23bo6bo
+2bo$8bo11bo4bo11bo3bo32bo12bo4bo$4bo10bo3bo19bo23bo$7bo8bo7bo19bo11bo6b
+o14bo$11bo11bo24bo17bo$30bo5bo4bo16bo2bo4bo17bo$3bo47bo17bo$13bo20bo4bo
+23bo17bo5bo$33bo12bo8bo11bo9bo9bo$3bo18bo70bo$100b$2b2o31bo16bo$45b2obo
+32bo$8bo10bo39b2o38bo$o13bo47bo7bo7bo2bo15bo$17bo55bo18bo$30bo27bo5bo
+13bo20bo$21bo6b2o27bo7bo8bo$4bo18bo15bo36bo14bo$24bo15b2o20bo29bo$o10bo
+25bo13bo41bobo$100b$10bo3bo7bo24bo$22bo5bo26bo6b2obo4bo22bo$27bo34bo5b
+2o9bo$68bo23b3o$41bo25bo$o5bo12bo5bo9bo14bo3bo39b2o$24bo20bo26bo9bo3b2o
+$16bo47bo8bo25bo$12bo13bo54bo7bo$7bo8bo8bo15bo7bo20bo$82bo5bobo$54bo$4b
+o24bo66bobo$17bo24bobo27bo8bo$22bo49bo2bo$11bo7bo9bo5b2o7bo11bo11bo$6bo
+76b2o$3bo25bo10bo9bobo13b2o$7bo43bo15bo4bo12bo13bo$6bo28bo4bo6bo11bo18b
+o$o21b2o8bo10bo8bo14bo5bo$3bo9bo38bo$o33bo44bo$62bo7bo3bo2bo$25bo14bo7b
+o49bo$15bo2bo28bo2bobo4bo3bo23bo8bo$27bo14bo7bo13bo5bo24bo$2bo4bo23bo
+62bo$6bo9bo2bo12bo16bo6bo11bo5bo$30bo3bo6b2o2bo12bo25bo2bo4bo$31bo57bo$
+4bo2bo3bo19bo4bo31b2o15bo9bo$12bo76bo$23bo30bo13bo5bo$19bo4bo10bo5bo6bo
+8bo9bo16bo$25bo4bo10bobo47bo$10bo31bo6bo5bo43bo$2bo9bo3b2o60bo2bo$52bo
+2bo2bobo19bo18bo$31bob2o14bo38bo8bo$6bo10bo20bo14bo15bo$16bo9bo23bo10bo
+$9bo10bo4bo6bo19bo14bo14b2o5bo$69bo16bo6bo$7bo30bobo22bo4bo7bo10bo$13bo
+bo2bo4bo2bobo6bo4bo17bo18bo3bo$10bo44bo40bo$18bo5bo9bo15bo9bo6bo5bo14bo
+3bo$10bo15bo18bo23bo2bo24bo$100b!
