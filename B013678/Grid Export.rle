@@ -1,0 +1,33 @@
+#N ./gol-topology/B013678/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B013678/S
+73bo2bo10bobo6bo$9bo37bo15bo23bo6bo$23bo9bobo9bo3b2o19bo3bo10bo6bo$o11b
+o16bo4bo31bo$70bo6bo5bo$16bo2bo17bo27bo$13bobo38bo16bo11bo7bo$8bo30bo4b
+o23bo23bobo$8bo32bo6bo13bo10bo$o8bo4bo24bo5bo11bo4bo11bo12bo$o10bo5bo
+34bo5bo8bo4bo12bo11bo$26bo14bo39bo8bo6bo$13bo28bo47bo2bo$9bobo23bo$27bo
+bo2bo16bo2bo29bo4bo$84bo7bo$6bo42bo6bo17bo$14bo13bo15bo3bo$2bo25b2o4bo
+27bo$15bo80bo$7bo3bo42bo6bo5bo$26bo2bo2bo5bo4bo37bo13bo$9bo27bo15bo18bo
+23bo$4bobo3bo25bo15bo$2bo64bo8bo$30bo11bo18bo3bo9bobo18bo$bo4bo7bo2bo
+36bo13bo12bo3bo$17bo19bo41bo17bo$23bo4bo13bo2bo10bo3bo19bo$2bo4bo25bo
+15bo2bo44bo$30bo41bo21bo$bo$bo2bo28bo$3bo81b2o$12bo29bo11bo9bo$19bo23bo
+30bo22bo$6b3o4bo38bo20bo11b2obo$11bo32bo12bo5bo5bo4bo$28bo16bo$49bo7bo
+27bo$31bo34bo8bo$bo16bo10bo2bo12bo6bo27bo$14bo19bo5bo7bobo6bo20b2o10bo$
+29bo3bo32bo2bo7bo20bo$11bobo36bo12bo18bo$11bo15bo7bo37bo21bo2bo$bo72b2o
+bo$8bo10bo16bo20bo30bo$bo45bobo12bo6bo29bo$6bo11bo3bo31bo2bo29bo$12bo
+24bo45bo$7bo4bo40bo24bo20bo$11bo3bo9bo32bo$7bo12bo4bo7bo31bo21bo$6bo20b
+o21bo12bo4bo4bo$4bo16bo18bo14bo15bo4bo$26bobo5bo9bo3bo33bo5bo$23bo16bo
+21bo12bo15bo$18bo5bo6bo39bo9bo$50bo22b2o20bo$43bo$20bo30bo19bo16bobo$
+23bo12bo50bo5bo$13bo3bo24bo4bo7bo17bo9bo12bo$11bo34bo3bo28bo$10bobo13bo
+15bo7bo40bo7bo$24bo46bo$26bo15bo4bo5bo27bo10bo$32bo8bo5bo3bo$37bo10bo4b
+o$bo12bo8bo34bo20bo3bo$9bo35bobo36bo9bo$37bo5bo5bo7b2o20bo19bo$28bo36bo
+15bo3bo3bo$84bo9bo$11bo45bo$7bo32bo32bo23bo$26b2o6bo2bo10bo24bo4bo6bo
+11bo$4bo42bo28bo$14bo18bo3bo26bo$5bo33bo33bo17bo$6bo3bobo16bo63bo$16bo
+26bo31bo2bo20bo$6bobo7bob2o79bo$2bo21bo11bo4bo11bo13bo18bo8bo$bo87bo9bo
+$10bo13b2o23bo3bo14bo16bo$17bo35bo18bo17bo$6bo24bo34bobo$26bo30bo25bo$
+2bo19bo50bo$54bo27b2o$10bo11bo25bo4bo9bo24bo$bo2bo7bo22bo11bo4bo3bo27bo
+6bo$17bo57b3o4bo$48bobo9bobo13bo9bo$2bo25bo36b2o5bo20bo$4bo19bo22bo36bo
+$2bo$23bo11bo11b2o37bo6bo!
