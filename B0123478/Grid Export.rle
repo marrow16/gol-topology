@@ -1,0 +1,33 @@
+#N ./gol-topology/B0123478/Grid Export.rle
+#O Marrow
+#C Exported from GoGoL (https://github.com/marrow16/gogol)
+#C Wrap mode: Toroidal
+#C Boundary mode: Dead
+#C Step: 0
+x = 100, y = 100, rule = B0123478/S
+11bo18bo16bo12bo3bo$16bo14bo39bo17bo$10bo18bo51bo8bo$27bo25bo10bo24bo6b
+o$5bo19bo23bo23bo4bo4bo4bo$23bo2bo26bo14bo5bobo3bo10bo$18bo5bobo23bo3bo
+$8bo16bo65bo6bo$21bo18bo56bo$8bo64b2o$20bo24b2o10bo40b2o$4bo19bo33bo12b
+obo6b2o8bo8bo$21bo63bo12bo$3bo9bo23bo25bo2bobo6bo15b2o$29bo60bo7bo$29bo
+10bo32bo$o7bo15bo14bo2bo15bo3bobo$13bo50bo23bo2bo$19bo3bo36bo31bo$31bo
+51bo$17bo64bo$4bo6bo7bo19bo14bo20bo13bo4bo$32bo7bo53bo$39bo3bo5bo22bo2b
+o2bo19bo$bo32bo5bo11bo17bo27bo$21bo10bo27bo$26bo41bo6bo4bobo6bo3bo3bo$
+49bo25bo19bo$o17bo39bo18bo$47bo16bo8bo$o18b2o35bo10bobo$12b2o31bo2bo$5b
+o2bo5bo25bo4b2o17bo15bo3bo$6bo55bo9bo9bo7bo$2bo34bo9bo11b2o5bo$o17bo32b
+o$2bo8bo13bo9bo27bo3bo$13bo13bo66bo4bo$3bo9bo5b2o24bo24b2o$o10bo64bo16b
+o2bo$2bo62bo9bo19bo3bo$19b2o4bo36bo36bo$22bo6bo29bo22bo11bo$8b2o7bo17bo
+bo28b2o15bo$7bo33bo7bo2bo$66bobo11bo13bo$41b2o12bo5bo2bo10bo11bo10bo$
+23bo6bo24bo22b2o$7bo3bo67bo12bobo$30bo59bo8bo$7bo8bo26bo25bo$bo8bo36bo
+21bo12bo8bo5bo$3bo46b2o13bo23bo7bo$7bo19bobo11bo16b2o4bo$35bo50bo$24bo
+20bo9bo15bo20bobo2bo$5bo2bo35bo14bo4bo$8bo17bo20bo18bo$74bo$90bo$45b2o
+2bo3bo34bo7bo$16bo68bo5bo2bo$o31bo13bo13bo36bo$3bo4bobo7bo47bo$57bo$o7b
+o15bo19bo15bo$5bobo32bo4bo32bo$10bo2bo11bo20bo24bo$o13bobo14b2o23bo23bo
+$7bo6bo10bo15bo16bo39bo$33bo17bo3bo2bobo8bo5bo2bo$34bo19bo$33bo27bo17bo
+8bo$bo19bo20bo37bo$17bobo55bo17b2o$2bo24bo46bo21bo$10bo2bo30bo3bo21bo3b
+o5bo15bo$5bo44bo5bo5bo17bo7bo$bo9bo5bo55bo3bo10b2o$21bo13bo4bo$41bo15bo
+11bobo8bo$7bo3bo62bo3bo14bo3bo$o23b2o11bo3bo39bo3bobo$70bo5bo4bo$3bo13b
+o14bo37bo4bo9bo6bo$10bo4bo75bobo$10b2o10bo14bo4bo23bo$obo10bo2bo7bo7bo
+3bo6bo5bo43bo$12bo56bo24bo$16bo10bo50bo11bo$6bo15bo16bo26bo28bo$11bo69b
+o$o29bobo51b2o$6bo11bo20bo20bo12bo23bo$60bo5bo$3bo3bo3bo3bo9bo70bo$26bo
+30bo11bo7bo7bo7bo$7bo13bo4bo20bob2o17b2o9bo8bo$7bo24bo18bo2bo9bo32bo$
+17bo17bo!
