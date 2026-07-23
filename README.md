@@ -73,10 +73,12 @@ rule:B/S
 randomization:5
 grid-size:100X100
 heat-map:Activity
+repeat-detect:1
+record:0
 randomize
 snapshot
 name:./experiment/%born/
 collect-files
 export
-repeat:512,name:%perm %survives,replay-snapshot,step-ahead-by:1000,heat-map-save,repeat-detect-save,heat-map-reveal,sleep:100,rule-perm++
+repeat:512,name:%perm %survives,replay-snapshot,step-ahead-by:1000,heat-map-save,repeat-detect-save,heat-map-reveal,sleep:25,rule-perm++
 ```
